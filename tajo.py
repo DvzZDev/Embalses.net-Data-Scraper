@@ -2,6 +2,7 @@ import mysql.connector
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
+import ssl
 
 def scrape_embalses_net(url):
     # Realizar la solicitud HTTP
@@ -20,10 +21,10 @@ def scrape_embalses_net(url):
         rows = table.find_all('tr')
         for row in rows[1:]:  # Saltar la primera fila (encabezados)
             cols = row.find_all('td')
-            embalse = cols[0].text.strip()
+            embalse = cols[0].text.strip()[:-4] 
             capacidad = float(cols[1].text.strip().replace(' Hm3', '').replace(',', '.'))
             almacenamiento = float(cols[2].text.strip().replace(' Hm3', '').replace(',', '.'))
-            porcentaje_llenado = (almacenamiento / capacidad) * 100
+            porcentaje_llenado = int((almacenamiento / capacidad) * 100)  # Convertir a entero
             data.append({'Embalse': embalse, 'Capacidad': capacidad, 'Almacenamiento': almacenamiento, 'Porcentaje Llenado': porcentaje_llenado})
         
         return data
@@ -36,7 +37,7 @@ def create_table(cursor):
     try:
         cursor.execute('''CREATE TABLE IF NOT EXISTS cuenca_del_tajo (
                             id INT AUTO_INCREMENT PRIMARY KEY,
-                            fecha DATE,
+                            fecha_importacion DATE,
                             embalse VARCHAR(255),
                             capacidad FLOAT,
                             almacenamiento FLOAT,
@@ -81,13 +82,16 @@ def main():
     if embalses_data:
         # Conexión a la base de datos
         try:
+            
             conn = mysql.connector.connect(
-                host="127.0.0.2",
-                port="3306",
-                user="root",
-                password="david578",
-                database="cuencas_hidrograficas"
+                host="gateway01.eu-central-1.prod.aws.tidbcloud.com",
+                port=4000,
+                user="DfWYA9vQa8C3KYP.root",
+                password="bITJL8OzxMkIstMi",
+                database="CuencasHidrograficas",
+                ssl_ca="C:\\Users\\Administrator\\Documents\\REPOS\\Cuencas_Hidrograficas\\isrgrootx1.pem",
             )
+
             cursor = conn.cursor()
             
             # Crear tabla si no existe
@@ -107,3 +111,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
