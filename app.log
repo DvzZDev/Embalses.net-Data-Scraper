@@ -1,0 +1,1415 @@
+root - INFO - Iteración 0: agua_embalsada = 2.944, agua_embalsada_por = 93.16
+root - INFO - Iteración 1: variacion_ultima_semana = -64, variacion_ultima_semana_por = -2.03
+root - INFO - Iteración 2: capacidad_total = 3.160
+root - INFO - Iteración 3: misma_semana_ultimo_año = 2.430, misma_semana_ultimo_año_por = 76.90
+root - INFO - Iteración 4: misma_semana_10años = 2.400, misma_semana_10años_por = 75.96
+root - INFO - Iteración 0: agua_embalsada = 137, agua_embalsada_por = 76.11
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 0.56
+root - INFO - Iteración 2: capacidad_total = 180
+root - INFO - Iteración 3: misma_semana_ultimo_año = 72, misma_semana_ultimo_año_por = 40.00
+root - INFO - Iteración 4: misma_semana_10años = 99, misma_semana_10años_por = 55.11
+root - INFO - Iteración 0: agua_embalsada = 6, agua_embalsada_por = 85.71
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 7
+root - INFO - Iteración 3: misma_semana_ultimo_año = 6, misma_semana_ultimo_año_por = 85.71
+root - INFO - Iteración 4: misma_semana_10años = 5, misma_semana_10años_por = 82.86
+root - INFO - Iteración 0: agua_embalsada = 73, agua_embalsada_por = 64.60
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 0.88
+root - INFO - Iteración 2: capacidad_total = 113
+root - INFO - Iteración 3: misma_semana_ultimo_año = 74, misma_semana_ultimo_año_por = 65.49
+root - INFO - Iteración 4: misma_semana_10años = 77, misma_semana_10años_por = 68.32
+root - INFO - Iteración 0: agua_embalsada = 39, agua_embalsada_por = 95.12
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 41
+root - INFO - Iteración 3: misma_semana_ultimo_año = 38, misma_semana_ultimo_año_por = 92.68
+root - INFO - Iteración 4: misma_semana_10años = 36, misma_semana_10años_por = 89.27
+root - INFO - Iteración 0: agua_embalsada = 46, agua_embalsada_por = 86.79
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 53
+root - INFO - Iteración 3: misma_semana_ultimo_año = 34, misma_semana_ultimo_año_por = 64.15
+root - INFO - Iteración 4: misma_semana_10años = 44, misma_semana_10años_por = 84.34
+root - INFO - Iteración 0: agua_embalsada = 26, agua_embalsada_por = 83.87
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 31
+root - INFO - Iteración 3: misma_semana_ultimo_año = 27, misma_semana_ultimo_año_por = 87.10
+root - INFO - Iteración 4: misma_semana_10años = 25, misma_semana_10años_por = 82.90
+root - INFO - Iteración 0: agua_embalsada = 78, agua_embalsada_por = 88.64
+root - INFO - Iteración 1: variacion_ultima_semana = -2, variacion_ultima_semana_por = -2.27
+root - INFO - Iteración 2: capacidad_total = 88
+root - INFO - Iteración 3: misma_semana_ultimo_año = 63, misma_semana_ultimo_año_por = 71.59
+root - INFO - Iteración 4: misma_semana_10años = 67, misma_semana_10años_por = 77.05
+root - INFO - Iteración 0: agua_embalsada = 631, agua_embalsada_por = 37.01
+root - INFO - Iteración 1: variacion_ultima_semana = 5, variacion_ultima_semana_por = 0.29
+root - INFO - Iteración 2: capacidad_total = 1.705
+root - INFO - Iteración 3: misma_semana_ultimo_año = 409, misma_semana_ultimo_año_por = 23.99
+root - INFO - Iteración 4: misma_semana_10años = 379, misma_semana_10años_por = 22.28
+root - INFO - Iteración 0: agua_embalsada = 18, agua_embalsada_por = 90.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 20
+root - INFO - Iteración 3: misma_semana_ultimo_año = 14, misma_semana_ultimo_año_por = 70.00
+root - INFO - Iteración 4: misma_semana_10años = 13, misma_semana_10años_por = 65.00
+root - INFO - Iteración 0: agua_embalsada = 43, agua_embalsada_por = 97.73
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 44
+root - INFO - Iteración 3: misma_semana_ultimo_año = 43, misma_semana_ultimo_año_por = 97.73
+root - INFO - Iteración 4: misma_semana_10años = 42, misma_semana_10años_por = 96.36
+root - INFO - Iteración 0: agua_embalsada = 7, agua_embalsada_por = 100.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 7
+root - INFO - Iteración 3: misma_semana_ultimo_año = 7, misma_semana_ultimo_año_por = 100.00
+root - INFO - Iteración 4: misma_semana_10años = 6, misma_semana_10años_por = 98.57
+root - INFO - Iteración 0: agua_embalsada = 249, agua_embalsada_por = 95.77
+root - INFO - Iteración 1: variacion_ultima_semana = -3, variacion_ultima_semana_por = -1.15
+root - INFO - Iteración 2: capacidad_total = 260
+root - INFO - Iteración 3: misma_semana_ultimo_año = 252, misma_semana_ultimo_año_por = 96.92
+root - INFO - Iteración 4: misma_semana_10años = 243, misma_semana_10años_por = 93.81
+root - INFO - Iteración 0: agua_embalsada = 20, agua_embalsada_por = 57.14
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 2.86
+root - INFO - Iteración 2: capacidad_total = 35
+root - INFO - Iteración 3: misma_semana_ultimo_año = 9, misma_semana_ultimo_año_por = 25.71
+root - INFO - Iteración 4: misma_semana_10años = 16, misma_semana_10años_por = 47.14
+root - INFO - Iteración 0: agua_embalsada = 407, agua_embalsada_por = 95.54
+root - INFO - Iteración 1: variacion_ultima_semana = 4, variacion_ultima_semana_por = 0.94
+root - INFO - Iteración 2: capacidad_total = 426
+root - INFO - Iteración 3: misma_semana_ultimo_año = 269, misma_semana_ultimo_año_por = 63.15
+root - INFO - Iteración 4: misma_semana_10años = 359, misma_semana_10años_por = 84.37
+root - INFO - Iteración 0: agua_embalsada = 170, agua_embalsada_por = 84.58
+root - INFO - Iteración 1: variacion_ultima_semana = 2, variacion_ultima_semana_por = 1.00
+root - INFO - Iteración 2: capacidad_total = 201
+root - INFO - Iteración 3: misma_semana_ultimo_año = 131, misma_semana_ultimo_año_por = 65.17
+root - INFO - Iteración 4: misma_semana_10años = 158, misma_semana_10años_por = 78.91
+root - INFO - Iteración 0: agua_embalsada = 3, agua_embalsada_por = 37.50
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 8
+root - INFO - Iteración 3: misma_semana_ultimo_año = 1, misma_semana_ultimo_año_por = 12.50
+root - INFO - Iteración 4: misma_semana_10años = 2, misma_semana_10años_por = 28.75
+root - INFO - Iteración 0: agua_embalsada = 28, agua_embalsada_por = 65.12
+root - INFO - Iteración 1: variacion_ultima_semana = -3, variacion_ultima_semana_por = -6.98
+root - INFO - Iteración 2: capacidad_total = 43
+root - INFO - Iteración 3: misma_semana_ultimo_año = 10, misma_semana_ultimo_año_por = 23.26
+root - INFO - Iteración 4: misma_semana_10años = 17, misma_semana_10años_por = 41.40
+root - INFO - Iteración 0: agua_embalsada = 6, agua_embalsada_por = 85.71
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 7
+root - INFO - Iteración 3: misma_semana_ultimo_año = 4, misma_semana_ultimo_año_por = 57.14
+root - INFO - Iteración 4: misma_semana_10años = 4, misma_semana_10años_por = 62.86
+root - INFO - Iteración 0: agua_embalsada = 48, agua_embalsada_por = 85.71
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 56
+root - INFO - Iteración 3: misma_semana_ultimo_año = 23, misma_semana_ultimo_año_por = 41.07
+root - INFO - Iteración 4: misma_semana_10años = 40, misma_semana_10años_por = 71.43
+root - INFO - Iteración 0: agua_embalsada = 21, agua_embalsada_por = 91.30
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 23
+root - INFO - Iteración 3: misma_semana_ultimo_año = 19, misma_semana_ultimo_año_por = 82.61
+root - INFO - Iteración 4: misma_semana_10años = 21, misma_semana_10años_por = 91.30
+root - INFO - Iteración 0: agua_embalsada = 560, agua_embalsada_por = 68.88
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 813
+root - INFO - Iteración 3: misma_semana_ultimo_año = 273, misma_semana_ultimo_año_por = 33.58
+root - INFO - Iteración 4: misma_semana_10años = 303, misma_semana_10años_por = 37.27
+root - INFO - Iteración 0: agua_embalsada = 14, agua_embalsada_por = 10.53
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 133
+root - INFO - Iteración 3: misma_semana_ultimo_año = 1, misma_semana_ultimo_año_por = 0.75
+root - INFO - Iteración 4: misma_semana_10años = 17, misma_semana_10años_por = 13.23
+root - INFO - Iteración 0: agua_embalsada = 802, agua_embalsada_por = 88.04
+root - INFO - Iteración 1: variacion_ultima_semana = -30, variacion_ultima_semana_por = -3.29
+root - INFO - Iteración 2: capacidad_total = 911
+root - INFO - Iteración 3: misma_semana_ultimo_año = 669, misma_semana_ultimo_año_por = 73.44
+root - INFO - Iteración 4: misma_semana_10años = 643, misma_semana_10años_por = 70.59
+root - INFO - Iteración 0: agua_embalsada = 17, agua_embalsada_por = 94.44
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 18
+root - INFO - Iteración 3: misma_semana_ultimo_año = 10, misma_semana_ultimo_año_por = 55.56
+root - INFO - Iteración 4: misma_semana_10años = 13, misma_semana_10años_por = 72.78
+root - INFO - Iteración 0: agua_embalsada = 11, agua_embalsada_por = 84.62
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 13
+root - INFO - Iteración 3: misma_semana_ultimo_año = 10, misma_semana_ultimo_año_por = 76.92
+root - INFO - Iteración 4: misma_semana_10años = 11, misma_semana_10años_por = 86.92
+root - INFO - Iteración 0: agua_embalsada = 49, agua_embalsada_por = 83.05
+root - INFO - Iteración 1: variacion_ultima_semana = -2, variacion_ultima_semana_por = -3.39
+root - INFO - Iteración 2: capacidad_total = 59
+root - INFO - Iteración 3: misma_semana_ultimo_año = 37, misma_semana_ultimo_año_por = 62.71
+root - INFO - Iteración 4: misma_semana_10años = 45, misma_semana_10años_por = 77.12
+root - INFO - Iteración 0: agua_embalsada = 21, agua_embalsada_por = 87.50
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 24
+root - INFO - Iteración 3: misma_semana_ultimo_año = 16, misma_semana_ultimo_año_por = 66.67
+root - INFO - Iteración 4: misma_semana_10años = 19, misma_semana_10años_por = 82.08
+root - INFO - Iteración 0: agua_embalsada = 5, agua_embalsada_por = 71.43
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -14.29
+root - INFO - Iteración 2: capacidad_total = 7
+root - INFO - Iteración 3: misma_semana_ultimo_año = 3, misma_semana_ultimo_año_por = 42.86
+root - INFO - Iteración 4: misma_semana_10años = 5, misma_semana_10años_por = 77.14
+root - INFO - Iteración 0: agua_embalsada = 55, agua_embalsada_por = 85.94
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 64
+root - INFO - Iteración 3: misma_semana_ultimo_año = 20, misma_semana_ultimo_año_por = 31.25
+root - INFO - Iteración 4: misma_semana_10años = 28, misma_semana_10años_por = 45.00
+root - INFO - Iteración 0: agua_embalsada = 6, agua_embalsada_por = 100.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 6
+root - INFO - Iteración 3: misma_semana_ultimo_año = 6, misma_semana_ultimo_año_por = 100.00
+root - INFO - Iteración 4: misma_semana_10años = 5, misma_semana_10años_por = 96.67
+root - INFO - Iteración 0: agua_embalsada = 9, agua_embalsada_por = 81.82
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -9.09
+root - INFO - Iteración 2: capacidad_total = 11
+root - INFO - Iteración 3: misma_semana_ultimo_año = 6, misma_semana_ultimo_año_por = 54.55
+root - INFO - Iteración 4: misma_semana_10años = 8, misma_semana_10años_por = 73.64
+root - INFO - Iteración 0: agua_embalsada = 33, agua_embalsada_por = 97.06
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 34
+root - INFO - Iteración 3: misma_semana_ultimo_año = 32, misma_semana_ultimo_año_por = 94.12
+root - INFO - Iteración 4: misma_semana_10años = 30, misma_semana_10años_por = 89.41
+root - INFO - Iteración 0: agua_embalsada = 13, agua_embalsada_por = 92.86
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 7.14
+root - INFO - Iteración 2: capacidad_total = 14
+root - INFO - Iteración 3: misma_semana_ultimo_año = 11, misma_semana_ultimo_año_por = 78.57
+root - INFO - Iteración 4: misma_semana_10años = 12, misma_semana_10años_por = 86.43
+root - INFO - Iteración 0: agua_embalsada = 22, agua_embalsada_por = 70.97
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 31
+root - INFO - Iteración 3: misma_semana_ultimo_año = 16, misma_semana_ultimo_año_por = 51.61
+root - INFO - Iteración 4: misma_semana_10años = 22, misma_semana_10años_por = 70.97
+root - INFO - Iteración 0: agua_embalsada = 14, agua_embalsada_por = 93.33
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 15
+root - INFO - Iteración 3: misma_semana_ultimo_año = 14, misma_semana_ultimo_año_por = 93.33
+root - INFO - Iteración 4: misma_semana_10años = 14, misma_semana_10años_por = 95.33
+root - INFO - Iteración 0: agua_embalsada = 23, agua_embalsada_por = 100.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 23
+root - INFO - Iteración 3: misma_semana_ultimo_año = 19, misma_semana_ultimo_año_por = 82.61
+root - INFO - Iteración 4: misma_semana_10años = 15, misma_semana_10años_por = 66.52
+root - INFO - Iteración 0: agua_embalsada = 43, agua_embalsada_por = 86.00
+root - INFO - Iteración 1: variacion_ultima_semana = -4, variacion_ultima_semana_por = -8.00
+root - INFO - Iteración 2: capacidad_total = 50
+root - INFO - Iteración 3: misma_semana_ultimo_año = 41, misma_semana_ultimo_año_por = 82.00
+root - INFO - Iteración 4: misma_semana_10años = 42, misma_semana_10años_por = 84.00
+root - INFO - Iteración 0: agua_embalsada = 47, agua_embalsada_por = 95.92
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 49
+root - INFO - Iteración 3: misma_semana_ultimo_año = 47, misma_semana_ultimo_año_por = 95.92
+root - INFO - Iteración 4: misma_semana_10años = 44, misma_semana_10años_por = 91.02
+root - INFO - Iteración 0: agua_embalsada = 80, agua_embalsada_por = 97.56
+root - INFO - Iteración 1: variacion_ultima_semana = 2, variacion_ultima_semana_por = 2.44
+root - INFO - Iteración 2: capacidad_total = 82
+root - INFO - Iteración 3: misma_semana_ultimo_año = 79, misma_semana_ultimo_año_por = 96.34
+root - INFO - Iteración 4: misma_semana_10años = 81, misma_semana_10años_por = 99.02
+root - INFO - Iteración 0: agua_embalsada = 13, agua_embalsada_por = 92.86
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 14
+root - INFO - Iteración 3: misma_semana_ultimo_año = 12, misma_semana_ultimo_año_por = 85.71
+root - INFO - Iteración 4: misma_semana_10años = 8, misma_semana_10años_por = 62.14
+root - INFO - Iteración 0: agua_embalsada = 125, agua_embalsada_por = 90.58
+root - INFO - Iteración 1: variacion_ultima_semana = 3, variacion_ultima_semana_por = 2.17
+root - INFO - Iteración 2: capacidad_total = 138
+root - INFO - Iteración 3: misma_semana_ultimo_año = 96, misma_semana_ultimo_año_por = 69.57
+root - INFO - Iteración 4: misma_semana_10años = 110, misma_semana_10años_por = 80.36
+root - INFO - Iteración 0: agua_embalsada = 86, agua_embalsada_por = 94.51
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 91
+root - INFO - Iteración 3: misma_semana_ultimo_año = 60, misma_semana_ultimo_año_por = 65.93
+root - INFO - Iteración 4: misma_semana_10años = 79, misma_semana_10años_por = 87.14
+root - INFO - Iteración 0: agua_embalsada = 175, agua_embalsada_por = 93.09
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 0.53
+root - INFO - Iteración 2: capacidad_total = 188
+root - INFO - Iteración 3: misma_semana_ultimo_año = 173, misma_semana_ultimo_año_por = 92.02
+root - INFO - Iteración 4: misma_semana_10años = 167, misma_semana_10años_por = 89.31
+root - INFO - Iteración 0: agua_embalsada = 1.357, agua_embalsada_por = 93.85
+root - INFO - Iteración 1: variacion_ultima_semana = -22, variacion_ultima_semana_por = -1.52
+root - INFO - Iteración 2: capacidad_total = 1.446
+root - INFO - Iteración 3: misma_semana_ultimo_año = 872, misma_semana_ultimo_año_por = 60.30
+root - INFO - Iteración 4: misma_semana_10años = 1.027, misma_semana_10años_por = 71.09
+root - INFO - Iteración 0: agua_embalsada = 51, agua_embalsada_por = 96.23
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 53
+root - INFO - Iteración 3: misma_semana_ultimo_año = 49, misma_semana_ultimo_año_por = 92.45
+root - INFO - Iteración 4: misma_semana_10años = 49, misma_semana_10años_por = 93.77
+root - INFO - Iteración 0: agua_embalsada = 92, agua_embalsada_por = 74.19
+root - INFO - Iteración 1: variacion_ultima_semana = -4, variacion_ultima_semana_por = -3.23
+root - INFO - Iteración 2: capacidad_total = 124
+root - INFO - Iteración 3: misma_semana_ultimo_año = 87, misma_semana_ultimo_año_por = 70.16
+root - INFO - Iteración 4: misma_semana_10años = 94, misma_semana_10años_por = 75.89
+root - INFO - Iteración 0: agua_embalsada = 123, agua_embalsada_por = 14.44
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 852
+root - INFO - Iteración 3: misma_semana_ultimo_año = 114, misma_semana_ultimo_año_por = 13.38
+root - INFO - Iteración 4: misma_semana_10años = 355, misma_semana_10años_por = 41.75
+root - INFO - Iteración 0: agua_embalsada = 41, agua_embalsada_por = 78.85
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 52
+root - INFO - Iteración 3: misma_semana_ultimo_año = 22, misma_semana_ultimo_año_por = 42.31
+root - INFO - Iteración 4: misma_semana_10años = 3, misma_semana_10años_por = 6.92
+root - INFO - Iteración 0: agua_embalsada = 5, agua_embalsada_por = 83.33
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -16.67
+root - INFO - Iteración 2: capacidad_total = 6
+root - INFO - Iteración 3: misma_semana_ultimo_año = 5, misma_semana_ultimo_año_por = 83.33
+root - INFO - Iteración 4: misma_semana_10años = 4, misma_semana_10años_por = 80.00
+root - INFO - Iteración 0: agua_embalsada = 42, agua_embalsada_por = 53.16
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 79
+root - INFO - Iteración 3: misma_semana_ultimo_año = 34, misma_semana_ultimo_año_por = 43.04
+root - INFO - Iteración 4: misma_semana_10años = 4, misma_semana_10años_por = 6.20
+root - INFO - Iteración 0: agua_embalsada = 15, agua_embalsada_por = 100.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 15
+root - INFO - Iteración 3: misma_semana_ultimo_año = 12, misma_semana_ultimo_año_por = 80.00
+root - INFO - Iteración 4: misma_semana_10años = 13, misma_semana_10años_por = 88.00
+root - INFO - Iteración 0: agua_embalsada = 1.015, agua_embalsada_por = 67.44
+root - INFO - Iteración 1: variacion_ultima_semana = 2, variacion_ultima_semana_por = 0.13
+root - INFO - Iteración 2: capacidad_total = 1.505
+root - INFO - Iteración 3: misma_semana_ultimo_año = 502, misma_semana_ultimo_año_por = 33.36
+root - INFO - Iteración 4: misma_semana_10años = 820, misma_semana_10años_por = 54.52
+root - INFO - Iteración 0: agua_embalsada = 3, agua_embalsada_por = 100.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 3
+root - INFO - Iteración 3: misma_semana_ultimo_año = 2, misma_semana_ultimo_año_por = 66.67
+root - INFO - Iteración 4: misma_semana_10años = 1, misma_semana_10años_por = 40.00
+root - INFO - Iteración 0: agua_embalsada = 5, agua_embalsada_por = 83.33
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 6
+root - INFO - Iteración 3: misma_semana_ultimo_año = 4, misma_semana_ultimo_año_por = 66.67
+root - INFO - Iteración 4: misma_semana_10años = 4, misma_semana_10años_por = 70.00
+root - INFO - Iteración 0: agua_embalsada = 29, agua_embalsada_por = 90.63
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 32
+root - INFO - Iteración 3: misma_semana_ultimo_año = 1, misma_semana_ultimo_año_por = 3.13
+root - INFO - Iteración 4: misma_semana_10años = 14, misma_semana_10años_por = 44.69
+root - INFO - Iteración 0: agua_embalsada = 477, agua_embalsada_por = 86.10
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -0.18
+root - INFO - Iteración 2: capacidad_total = 554
+root - INFO - Iteración 3: misma_semana_ultimo_año = 311, misma_semana_ultimo_año_por = 56.14
+root - INFO - Iteración 4: misma_semana_10años = 353, misma_semana_10años_por = 63.77
+root - INFO - Iteración 0: agua_embalsada = 17, agua_embalsada_por = 80.95
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 21
+root - INFO - Iteración 3: misma_semana_ultimo_año = 15, misma_semana_ultimo_año_por = 71.43
+root - INFO - Iteración 4: misma_semana_10años = 16, misma_semana_10años_por = 80.00
+root - INFO - Iteración 0: agua_embalsada = 32, agua_embalsada_por = 82.05
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 39
+root - INFO - Iteración 3: misma_semana_ultimo_año = 15, misma_semana_ultimo_año_por = 38.46
+root - INFO - Iteración 4: misma_semana_10años = 19, misma_semana_10años_por = 49.49
+root - INFO - Iteración 0: agua_embalsada = 24, agua_embalsada_por = 100.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 24
+root - INFO - Iteración 3: misma_semana_ultimo_año = 24, misma_semana_ultimo_año_por = 100.00
+root - INFO - Iteración 4: misma_semana_10años = 22, misma_semana_10años_por = 91.67
+root - INFO - Iteración 0: agua_embalsada = 6, agua_embalsada_por = 13.95
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 43
+root - INFO - Iteración 3: misma_semana_ultimo_año = 3, misma_semana_ultimo_año_por = 6.98
+root - INFO - Iteración 4: misma_semana_10años = 18, misma_semana_10años_por = 43.95
+root - INFO - Iteración 0: agua_embalsada = 1.128, agua_embalsada_por = 35.04
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 0.03
+root - INFO - Iteración 2: capacidad_total = 3.219
+root - INFO - Iteración 3: misma_semana_ultimo_año = 558, misma_semana_ultimo_año_por = 17.33
+root - INFO - Iteración 4: misma_semana_10años = 1.547, misma_semana_10años_por = 48.09
+root - INFO - Iteración 0: agua_embalsada = 4, agua_embalsada_por = 11.76
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 34
+root - INFO - Iteración 3: misma_semana_ultimo_año = 0, misma_semana_ultimo_año_por = 0.00
+root - INFO - Iteración 4: misma_semana_10años = 12, misma_semana_10años_por = 35.88
+root - INFO - Iteración 0: agua_embalsada = 26, agua_embalsada_por = 100.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 26
+root - INFO - Iteración 3: misma_semana_ultimo_año = 25, misma_semana_ultimo_año_por = 96.15
+root - INFO - Iteración 4: misma_semana_10años = 20, misma_semana_10años_por = 78.85
+root - INFO - Iteración 0: agua_embalsada = 19, agua_embalsada_por = 55.88
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 34
+root - INFO - Iteración 3: misma_semana_ultimo_año = 7, misma_semana_ultimo_año_por = 20.59
+root - INFO - Iteración 4: misma_semana_10años = 26, misma_semana_10años_por = 78.82
+root - INFO - Iteración 0: agua_embalsada = 11, agua_embalsada_por = 100.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 11
+root - INFO - Iteración 3: misma_semana_ultimo_año = 11, misma_semana_ultimo_año_por = 100.00
+root - INFO - Iteración 4: misma_semana_10años = 10, misma_semana_10años_por = 99.09
+root - INFO - Iteración 0: agua_embalsada = 664, agua_embalsada_por = 82.18
+root - INFO - Iteración 1: variacion_ultima_semana = -8, variacion_ultima_semana_por = -0.99
+root - INFO - Iteración 2: capacidad_total = 808
+root - INFO - Iteración 3: misma_semana_ultimo_año = 548, misma_semana_ultimo_año_por = 67.82
+root - INFO - Iteración 4: misma_semana_10años = 616, misma_semana_10años_por = 76.25
+root - INFO - Iteración 0: agua_embalsada = 38, agua_embalsada_por = 74.51
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -1.96
+root - INFO - Iteración 2: capacidad_total = 51
+root - INFO - Iteración 3: misma_semana_ultimo_año = 44, misma_semana_ultimo_año_por = 86.27
+root - INFO - Iteración 4: misma_semana_10años = 43, misma_semana_10años_por = 85.29
+root - INFO - Iteración 0: agua_embalsada = 5, agua_embalsada_por = 100.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 5
+root - INFO - Iteración 3: misma_semana_ultimo_año = 5, misma_semana_ultimo_año_por = 100.00
+root - INFO - Iteración 4: misma_semana_10años = 4, misma_semana_10años_por = 88.00
+root - INFO - Iteración 0: agua_embalsada = 7, agua_embalsada_por = 100.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 7
+root - INFO - Iteración 3: misma_semana_ultimo_año = 6, misma_semana_ultimo_año_por = 85.71
+root - INFO - Iteración 4: misma_semana_10años = 6, misma_semana_10años_por = 85.71
+root - INFO - Iteración 0: agua_embalsada = 36, agua_embalsada_por = 85.71
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 2.38
+root - INFO - Iteración 2: capacidad_total = 42
+root - INFO - Iteración 3: misma_semana_ultimo_año = 33, misma_semana_ultimo_año_por = 78.57
+root - INFO - Iteración 4: misma_semana_10años = 35, misma_semana_10años_por = 83.57
+root - INFO - Iteración 0: agua_embalsada = 193, agua_embalsada_por = 82.83
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 233
+root - INFO - Iteración 3: misma_semana_ultimo_año = 102, misma_semana_ultimo_año_por = 43.78
+root - INFO - Iteración 4: misma_semana_10años = 167, misma_semana_10años_por = 71.67
+root - INFO - Iteración 0: agua_embalsada = 2, agua_embalsada_por = 40.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 5
+root - INFO - Iteración 3: misma_semana_ultimo_año = 1, misma_semana_ultimo_año_por = 20.00
+root - INFO - Iteración 4: misma_semana_10años = 3, misma_semana_10años_por = 64.00
+root - INFO - Iteración 0: agua_embalsada = 136, agua_embalsada_por = 74.32
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 183
+root - INFO - Iteración 3: misma_semana_ultimo_año = 38, misma_semana_ultimo_año_por = 20.77
+root - INFO - Iteración 4: misma_semana_10años = 70, misma_semana_10años_por = 38.58
+root - INFO - Iteración 0: agua_embalsada = 61, agua_embalsada_por = 57.55
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 106
+root - INFO - Iteración 3: misma_semana_ultimo_año = 46, misma_semana_ultimo_año_por = 43.40
+root - INFO - Iteración 4: misma_semana_10años = 12, misma_semana_10años_por = 11.79
+root - INFO - Iteración 0: agua_embalsada = 122, agua_embalsada_por = 93.13
+root - INFO - Iteración 1: variacion_ultima_semana = -4, variacion_ultima_semana_por = -3.05
+root - INFO - Iteración 2: capacidad_total = 131
+root - INFO - Iteración 3: misma_semana_ultimo_año = 123, misma_semana_ultimo_año_por = 93.89
+root - INFO - Iteración 4: misma_semana_10años = 103, misma_semana_10años_por = 79.08
+root - INFO - Iteración 0: agua_embalsada = 89, agua_embalsada_por = 29.47
+root - INFO - Iteración 1: variacion_ultima_semana = -3, variacion_ultima_semana_por = -0.99
+root - INFO - Iteración 2: capacidad_total = 302
+root - INFO - Iteración 3: misma_semana_ultimo_año = 73, misma_semana_ultimo_año_por = 24.17
+root - INFO - Iteración 4: misma_semana_10años = 231, misma_semana_10años_por = 76.52
+root - INFO - Iteración 0: agua_embalsada = 6, agua_embalsada_por = 100.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 6
+root - INFO - Iteración 3: misma_semana_ultimo_año = 6, misma_semana_ultimo_año_por = 100.00
+root - INFO - Iteración 4: misma_semana_10años = 5, misma_semana_10años_por = 96.67
+root - INFO - Iteración 0: agua_embalsada = 76, agua_embalsada_por = 58.91
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 129
+root - INFO - Iteración 3: misma_semana_ultimo_año = 32, misma_semana_ultimo_año_por = 24.81
+root - INFO - Iteración 4: misma_semana_10años = 86, misma_semana_10años_por = 66.74
+root - INFO - Iteración 0: agua_embalsada = 111, agua_embalsada_por = 66.47
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 0.60
+root - INFO - Iteración 2: capacidad_total = 167
+root - INFO - Iteración 3: misma_semana_ultimo_año = 33, misma_semana_ultimo_año_por = 19.76
+root - INFO - Iteración 4: misma_semana_10años = 80, misma_semana_10años_por = 47.90
+root - INFO - Iteración 0: agua_embalsada = 164, agua_embalsada_por = 50.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 328
+root - INFO - Iteración 3: misma_semana_ultimo_año = 53, misma_semana_ultimo_año_por = 16.16
+root - INFO - Iteración 4: misma_semana_10años = 202, misma_semana_10años_por = 61.83
+root - INFO - Iteración 0: agua_embalsada = 47, agua_embalsada_por = 79.66
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -1.69
+root - INFO - Iteración 2: capacidad_total = 59
+root - INFO - Iteración 3: misma_semana_ultimo_año = 27, misma_semana_ultimo_año_por = 45.76
+root - INFO - Iteración 4: misma_semana_10años = 32, misma_semana_10años_por = 54.58
+root - INFO - Iteración 0: agua_embalsada = 56, agua_embalsada_por = 80.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 70
+root - INFO - Iteración 3: misma_semana_ultimo_año = 51, misma_semana_ultimo_año_por = 72.86
+root - INFO - Iteración 4: misma_semana_10años = 52, misma_semana_10años_por = 75.43
+root - INFO - Iteración 0: agua_embalsada = 11, agua_embalsada_por = 27.50
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 40
+root - INFO - Iteración 3: misma_semana_ultimo_año = 4, misma_semana_ultimo_año_por = 10.00
+root - INFO - Iteración 4: misma_semana_10años = 21, misma_semana_10años_por = 54.50
+root - INFO - Iteración 0: agua_embalsada = 11, agua_embalsada_por = 78.57
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 14
+root - INFO - Iteración 3: misma_semana_ultimo_año = 7, misma_semana_ultimo_año_por = 50.00
+root - INFO - Iteración 4: misma_semana_10años = 13, misma_semana_10años_por = 99.29
+root - INFO - Iteración 0: agua_embalsada = 20, agua_embalsada_por = 100.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 20
+root - INFO - Iteración 3: misma_semana_ultimo_año = 15, misma_semana_ultimo_año_por = 75.00
+root - INFO - Iteración 4: misma_semana_10años = 17, misma_semana_10años_por = 85.00
+root - INFO - Iteración 0: agua_embalsada = 98, agua_embalsada_por = 45.58
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 215
+root - INFO - Iteración 3: misma_semana_ultimo_año = 49, misma_semana_ultimo_año_por = 22.79
+root - INFO - Iteración 4: misma_semana_10años = 145, misma_semana_10años_por = 67.67
+root - INFO - Iteración 0: agua_embalsada = 25, agua_embalsada_por = 80.65
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -3.23
+root - INFO - Iteración 2: capacidad_total = 31
+root - INFO - Iteración 3: misma_semana_ultimo_año = 16, misma_semana_ultimo_año_por = 51.61
+root - INFO - Iteración 4: misma_semana_10años = 27, misma_semana_10años_por = 89.68
+root - INFO - Iteración 0: agua_embalsada = 15, agua_embalsada_por = 25.86
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 58
+root - INFO - Iteración 3: misma_semana_ultimo_año = 11, misma_semana_ultimo_año_por = 18.97
+root - INFO - Iteración 4: misma_semana_10años = 29, misma_semana_10años_por = 50.34
+root - INFO - Iteración 0: agua_embalsada = 34, agua_embalsada_por = 97.14
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 35
+root - INFO - Iteración 3: misma_semana_ultimo_año = 17, misma_semana_ultimo_año_por = 48.57
+root - INFO - Iteración 4: misma_semana_10años = 30, misma_semana_10años_por = 87.14
+root - INFO - Iteración 0: agua_embalsada = 144, agua_embalsada_por = 29.33
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 0.20
+root - INFO - Iteración 2: capacidad_total = 491
+root - INFO - Iteración 3: misma_semana_ultimo_año = 79, misma_semana_ultimo_año_por = 16.09
+root - INFO - Iteración 4: misma_semana_10años = 217, misma_semana_10años_por = 44.24
+root - INFO - Iteración 0: agua_embalsada = 140, agua_embalsada_por = 85.89
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 163
+root - INFO - Iteración 3: misma_semana_ultimo_año = 55, misma_semana_ultimo_año_por = 33.74
+root - INFO - Iteración 4: misma_semana_10años = 91, misma_semana_10años_por = 55.95
+root - INFO - Iteración 0: agua_embalsada = 138, agua_embalsada_por = 93.88
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 147
+root - INFO - Iteración 3: misma_semana_ultimo_año = 55, misma_semana_ultimo_año_por = 37.41
+root - INFO - Iteración 4: misma_semana_10años = 99, misma_semana_10años_por = 67.41
+root - INFO - Iteración 0: agua_embalsada = 139, agua_embalsada_por = 40.29
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 0.29
+root - INFO - Iteración 2: capacidad_total = 345
+root - INFO - Iteración 3: misma_semana_ultimo_año = 75, misma_semana_ultimo_año_por = 21.74
+root - INFO - Iteración 4: misma_semana_10años = 195, misma_semana_10años_por = 56.61
+root - INFO - Iteración 0: agua_embalsada = 109, agua_embalsada_por = 80.74
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 135
+root - INFO - Iteración 3: misma_semana_ultimo_año = 55, misma_semana_ultimo_año_por = 40.74
+root - INFO - Iteración 4: misma_semana_10años = 93, misma_semana_10años_por = 68.89
+root - INFO - Iteración 0: agua_embalsada = 257, agua_embalsada_por = 27.93
+root - INFO - Iteración 1: variacion_ultima_semana = 5, variacion_ultima_semana_por = 0.54
+root - INFO - Iteración 2: capacidad_total = 920
+root - INFO - Iteración 3: misma_semana_ultimo_año = 175, misma_semana_ultimo_año_por = 19.02
+root - INFO - Iteración 4: misma_semana_10años = 539, misma_semana_10años_por = 58.67
+root - INFO - Iteración 0: agua_embalsada = 196, agua_embalsada_por = 60.31
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 325
+root - INFO - Iteración 3: misma_semana_ultimo_año = 77, misma_semana_ultimo_año_por = 23.69
+root - INFO - Iteración 4: misma_semana_10años = 165, misma_semana_10años_por = 51.05
+root - INFO - Iteración 0: agua_embalsada = 55, agua_embalsada_por = 54.46
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 101
+root - INFO - Iteración 3: misma_semana_ultimo_año = 19, misma_semana_ultimo_año_por = 18.81
+root - INFO - Iteración 4: misma_semana_10años = 65, misma_semana_10años_por = 65.25
+root - INFO - Iteración 0: agua_embalsada = 42, agua_embalsada_por = 77.78
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -1.85
+root - INFO - Iteración 2: capacidad_total = 54
+root - INFO - Iteración 3: misma_semana_ultimo_año = 21, misma_semana_ultimo_año_por = 38.89
+root - INFO - Iteración 4: misma_semana_10años = 34, misma_semana_10años_por = 63.89
+root - INFO - Iteración 0: agua_embalsada = 204, agua_embalsada_por = 24.79
+root - INFO - Iteración 1: variacion_ultima_semana = -2, variacion_ultima_semana_por = -0.24
+root - INFO - Iteración 2: capacidad_total = 823
+root - INFO - Iteración 3: misma_semana_ultimo_año = 105, misma_semana_ultimo_año_por = 12.76
+root - INFO - Iteración 4: misma_semana_10años = 356, misma_semana_10años_por = 43.30
+root - INFO - Iteración 0: agua_embalsada = 147, agua_embalsada_por = 59.51
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 247
+root - INFO - Iteración 3: misma_semana_ultimo_año = 97, misma_semana_ultimo_año_por = 39.27
+root - INFO - Iteración 4: misma_semana_10años = 131, misma_semana_10años_por = 53.36
+root - INFO - Iteración 0: agua_embalsada = 18, agua_embalsada_por = 94.74
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -5.26
+root - INFO - Iteración 2: capacidad_total = 19
+root - INFO - Iteración 3: misma_semana_ultimo_año = 8, misma_semana_ultimo_año_por = 42.11
+root - INFO - Iteración 4: misma_semana_10años = 9, misma_semana_10años_por = 48.42
+root - INFO - Iteración 0: agua_embalsada = 40, agua_embalsada_por = 68.97
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 58
+root - INFO - Iteración 3: misma_semana_ultimo_año = 40, misma_semana_ultimo_año_por = 68.97
+root - INFO - Iteración 4: misma_semana_10años = 43, misma_semana_10años_por = 75.69
+root - INFO - Iteración 0: agua_embalsada = 30, agua_embalsada_por = 32.97
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 1.10
+root - INFO - Iteración 2: capacidad_total = 91
+root - INFO - Iteración 3: misma_semana_ultimo_año = 17, misma_semana_ultimo_año_por = 18.68
+root - INFO - Iteración 4: misma_semana_10años = 58, misma_semana_10años_por = 64.51
+root - INFO - Iteración 0: agua_embalsada = 158, agua_embalsada_por = 84.95
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -0.54
+root - INFO - Iteración 2: capacidad_total = 186
+root - INFO - Iteración 3: misma_semana_ultimo_año = 112, misma_semana_ultimo_año_por = 60.22
+root - INFO - Iteración 4: misma_semana_10años = 162, misma_semana_10años_por = 87.47
+root - INFO - Iteración 0: agua_embalsada = 15, agua_embalsada_por = 75.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 20
+root - INFO - Iteración 3: misma_semana_ultimo_año = 4, misma_semana_ultimo_año_por = 20.00
+root - INFO - Iteración 4: misma_semana_10años = 11, misma_semana_10años_por = 59.00
+root - INFO - Iteración 0: agua_embalsada = 77, agua_embalsada_por = 73.33
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 105
+root - INFO - Iteración 3: misma_semana_ultimo_año = 35, misma_semana_ultimo_año_por = 33.33
+root - INFO - Iteración 4: misma_semana_10años = 77, misma_semana_10años_por = 73.33
+root - INFO - Iteración 0: agua_embalsada = 165, agua_embalsada_por = 28.90
+root - INFO - Iteración 1: variacion_ultima_semana = 3, variacion_ultima_semana_por = 0.53
+root - INFO - Iteración 2: capacidad_total = 571
+root - INFO - Iteración 3: misma_semana_ultimo_año = 144, misma_semana_ultimo_año_por = 25.22
+root - INFO - Iteración 4: misma_semana_10años = 296, misma_semana_10años_por = 51.84
+root - INFO - Iteración 0: agua_embalsada = 6, agua_embalsada_por = 9.52
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 63
+root - INFO - Iteración 3: misma_semana_ultimo_año = 3, misma_semana_ultimo_año_por = 4.76
+root - INFO - Iteración 4: misma_semana_10años = 27, misma_semana_10años_por = 43.17
+root - INFO - Iteración 0: agua_embalsada = 86, agua_embalsada_por = 30.60
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 281
+root - INFO - Iteración 3: misma_semana_ultimo_año = 35, misma_semana_ultimo_año_por = 12.46
+root - INFO - Iteración 4: misma_semana_10años = 139, misma_semana_10años_por = 49.75
+root - INFO - Iteración 0: agua_embalsada = 12, agua_embalsada_por = 85.71
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -7.14
+root - INFO - Iteración 2: capacidad_total = 14
+root - INFO - Iteración 3: misma_semana_ultimo_año = 12, misma_semana_ultimo_año_por = 85.71
+root - INFO - Iteración 4: misma_semana_10años = 11, misma_semana_10años_por = 81.43
+root - INFO - Iteración 0: agua_embalsada = 15, agua_embalsada_por = 45.45
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 33
+root - INFO - Iteración 3: misma_semana_ultimo_año = 8, misma_semana_ultimo_año_por = 24.24
+root - INFO - Iteración 4: misma_semana_10años = 17, misma_semana_10años_por = 52.12
+root - INFO - Iteración 0: agua_embalsada = 41, agua_embalsada_por = 67.21
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 61
+root - INFO - Iteración 3: misma_semana_ultimo_año = 8, misma_semana_ultimo_año_por = 13.11
+root - INFO - Iteración 4: misma_semana_10años = 39, misma_semana_10años_por = 64.26
+root - INFO - Iteración 0: agua_embalsada = 113, agua_embalsada_por = 80.71
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -0.71
+root - INFO - Iteración 2: capacidad_total = 140
+root - INFO - Iteración 3: misma_semana_ultimo_año = 45, misma_semana_ultimo_año_por = 32.14
+root - INFO - Iteración 4: misma_semana_10años = 72, misma_semana_10años_por = 51.79
+root - INFO - Iteración 0: agua_embalsada = 18, agua_embalsada_por = 15.38
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -0.85
+root - INFO - Iteración 2: capacidad_total = 117
+root - INFO - Iteración 3: misma_semana_ultimo_año = 13, misma_semana_ultimo_año_por = 11.11
+root - INFO - Iteración 4: misma_semana_10años = 23, misma_semana_10años_por = 20.09
+root - INFO - Iteración 0: agua_embalsada = 113, agua_embalsada_por = 72.44
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 0.64
+root - INFO - Iteración 2: capacidad_total = 156
+root - INFO - Iteración 3: misma_semana_ultimo_año = 69, misma_semana_ultimo_año_por = 44.23
+root - INFO - Iteración 4: misma_semana_10años = 87, misma_semana_10años_por = 56.09
+root - INFO - Iteración 0: agua_embalsada = 29, agua_embalsada_por = 74.36
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -2.56
+root - INFO - Iteración 2: capacidad_total = 39
+root - INFO - Iteración 3: misma_semana_ultimo_año = 0, misma_semana_ultimo_año_por = 0.00
+root - INFO - Iteración 4: misma_semana_10años = 25, misma_semana_10años_por = 64.62
+root - INFO - Iteración 0: agua_embalsada = 29, agua_embalsada_por = 96.67
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 3.33
+root - INFO - Iteración 2: capacidad_total = 30
+root - INFO - Iteración 3: misma_semana_ultimo_año = 19, misma_semana_ultimo_año_por = 63.33
+root - INFO - Iteración 4: misma_semana_10años = 16, misma_semana_10años_por = 56.33
+root - INFO - Iteración 0: agua_embalsada = 18, agua_embalsada_por = 37.50
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -2.08
+root - INFO - Iteración 2: capacidad_total = 48
+root - INFO - Iteración 3: misma_semana_ultimo_año = 7, misma_semana_ultimo_año_por = 14.58
+root - INFO - Iteración 4: misma_semana_10años = 23, misma_semana_10años_por = 48.75
+root - INFO - Iteración 0: agua_embalsada = 242, agua_embalsada_por = 47.83
+root - INFO - Iteración 1: variacion_ultima_semana = 3, variacion_ultima_semana_por = 0.59
+root - INFO - Iteración 2: capacidad_total = 506
+root - INFO - Iteración 3: misma_semana_ultimo_año = 148, misma_semana_ultimo_año_por = 29.25
+root - INFO - Iteración 4: misma_semana_10años = 315, misma_semana_10años_por = 62.25
+root - INFO - Iteración 0: agua_embalsada = 44, agua_embalsada_por = 30.14
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 0.68
+root - INFO - Iteración 2: capacidad_total = 146
+root - INFO - Iteración 3: misma_semana_ultimo_año = 17, misma_semana_ultimo_año_por = 11.64
+root - INFO - Iteración 4: misma_semana_10años = 93, misma_semana_10años_por = 63.97
+root - INFO - Iteración 0: agua_embalsada = 9, agua_embalsada_por = 52.94
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 17
+root - INFO - Iteración 3: misma_semana_ultimo_año = 6, misma_semana_ultimo_año_por = 35.29
+root - INFO - Iteración 4: misma_semana_10años = 9, misma_semana_10años_por = 57.06
+root - INFO - Iteración 0: agua_embalsada = 192, agua_embalsada_por = 83.84
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 0.44
+root - INFO - Iteración 2: capacidad_total = 229
+root - INFO - Iteración 3: misma_semana_ultimo_año = 60, misma_semana_ultimo_año_por = 26.20
+root - INFO - Iteración 4: misma_semana_10años = 125, misma_semana_10años_por = 54.89
+root - INFO - Iteración 0: agua_embalsada = 77, agua_embalsada_por = 44.00
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 0.57
+root - INFO - Iteración 2: capacidad_total = 175
+root - INFO - Iteración 3: misma_semana_ultimo_año = 27, misma_semana_ultimo_año_por = 15.43
+root - INFO - Iteración 4: misma_semana_10años = 121, misma_semana_10años_por = 69.60
+root - INFO - Iteración 0: agua_embalsada = 58, agua_embalsada_por = 87.88
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 66
+root - INFO - Iteración 3: misma_semana_ultimo_año = 32, misma_semana_ultimo_año_por = 48.48
+root - INFO - Iteración 4: misma_semana_10años = 49, misma_semana_10años_por = 75.45
+root - INFO - Iteración 0: agua_embalsada = 77, agua_embalsada_por = 90.59
+root - INFO - Iteración 1: variacion_ultima_semana = -3, variacion_ultima_semana_por = -3.53
+root - INFO - Iteración 2: capacidad_total = 85
+root - INFO - Iteración 3: misma_semana_ultimo_año = 47, misma_semana_ultimo_año_por = 55.29
+root - INFO - Iteración 4: misma_semana_10años = 75, misma_semana_10años_por = 88.59
+root - INFO - Iteración 0: agua_embalsada = 14, agua_embalsada_por = 63.64
+root - INFO - Iteración 1: variacion_ultima_semana = 3, variacion_ultima_semana_por = 13.64
+root - INFO - Iteración 2: capacidad_total = 22
+root - INFO - Iteración 3: misma_semana_ultimo_año = 8, misma_semana_ultimo_año_por = 36.36
+root - INFO - Iteración 4: misma_semana_10años = 10, misma_semana_10años_por = 47.27
+root - INFO - Iteración 0: agua_embalsada = 53, agua_embalsada_por = 84.13
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 63
+root - INFO - Iteración 3: misma_semana_ultimo_año = 37, misma_semana_ultimo_año_por = 58.73
+root - INFO - Iteración 4: misma_semana_10años = 46, misma_semana_10años_por = 73.02
+root - INFO - Iteración 0: agua_embalsada = 14, agua_embalsada_por = 25.93
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -1.85
+root - INFO - Iteración 2: capacidad_total = 54
+root - INFO - Iteración 3: misma_semana_ultimo_año = 34, misma_semana_ultimo_año_por = 62.96
+root - INFO - Iteración 4: misma_semana_10años = 40, misma_semana_10años_por = 75.19
+root - INFO - Iteración 0: agua_embalsada = 154, agua_embalsada_por = 94.48
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -0.61
+root - INFO - Iteración 2: capacidad_total = 163
+root - INFO - Iteración 3: misma_semana_ultimo_año = 89, misma_semana_ultimo_año_por = 54.60
+root - INFO - Iteración 4: misma_semana_10años = 101, misma_semana_10años_por = 62.39
+root - INFO - Iteración 0: agua_embalsada = 164, agua_embalsada_por = 24.15
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 0.15
+root - INFO - Iteración 2: capacidad_total = 679
+root - INFO - Iteración 3: misma_semana_ultimo_año = 127, misma_semana_ultimo_año_por = 18.70
+root - INFO - Iteración 4: misma_semana_10años = 488, misma_semana_10años_por = 71.96
+root - INFO - Iteración 0: agua_embalsada = 31, agua_embalsada_por = 37.80
+root - INFO - Iteración 1: variacion_ultima_semana = -2, variacion_ultima_semana_por = -2.44
+root - INFO - Iteración 2: capacidad_total = 82
+root - INFO - Iteración 3: misma_semana_ultimo_año = 59, misma_semana_ultimo_año_por = 71.95
+root - INFO - Iteración 4: misma_semana_10años = 53, misma_semana_10años_por = 65.00
+root - INFO - Iteración 0: agua_embalsada = 9, agua_embalsada_por = 56.25
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 16
+root - INFO - Iteración 3: misma_semana_ultimo_año = 5, misma_semana_ultimo_año_por = 31.25
+root - INFO - Iteración 4: misma_semana_10años = 6, misma_semana_10años_por = 38.13
+root - INFO - Iteración 0: agua_embalsada = 10, agua_embalsada_por = 45.45
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 22
+root - INFO - Iteración 3: misma_semana_ultimo_año = 18, misma_semana_ultimo_año_por = 81.82
+root - INFO - Iteración 4: misma_semana_10años = 16, misma_semana_10años_por = 76.82
+root - INFO - Iteración 0: agua_embalsada = 234, agua_embalsada_por = 43.25
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 0.18
+root - INFO - Iteración 2: capacidad_total = 541
+root - INFO - Iteración 3: misma_semana_ultimo_año = 219, misma_semana_ultimo_año_por = 40.48
+root - INFO - Iteración 4: misma_semana_10años = 430, misma_semana_10años_por = 79.61
+root - INFO - Iteración 0: agua_embalsada = 398, agua_embalsada_por = 99.50
+root - INFO - Iteración 1: variacion_ultima_semana = 3, variacion_ultima_semana_por = 0.75
+root - INFO - Iteración 2: capacidad_total = 400
+root - INFO - Iteración 3: misma_semana_ultimo_año = 329, misma_semana_ultimo_año_por = 82.25
+root - INFO - Iteración 4: misma_semana_10años = 376, misma_semana_10años_por = 94.13
+root - INFO - Iteración 0: agua_embalsada = 11, agua_embalsada_por = 45.83
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -4.17
+root - INFO - Iteración 2: capacidad_total = 24
+root - INFO - Iteración 3: misma_semana_ultimo_año = 12, misma_semana_ultimo_año_por = 50.00
+root - INFO - Iteración 4: misma_semana_10años = 19, misma_semana_10años_por = 82.92
+root - INFO - Iteración 0: agua_embalsada = 128, agua_embalsada_por = 84.21
+root - INFO - Iteración 1: variacion_ultima_semana = 4, variacion_ultima_semana_por = 2.63
+root - INFO - Iteración 2: capacidad_total = 152
+root - INFO - Iteración 3: misma_semana_ultimo_año = 56, misma_semana_ultimo_año_por = 36.84
+root - INFO - Iteración 4: misma_semana_10años = 103, misma_semana_10años_por = 68.22
+root - INFO - Iteración 0: agua_embalsada = 5, agua_embalsada_por = 71.43
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 7
+root - INFO - Iteración 3: misma_semana_ultimo_año = 6, misma_semana_ultimo_año_por = 85.71
+root - INFO - Iteración 4: misma_semana_10años = 5, misma_semana_10años_por = 74.29
+root - INFO - Iteración 0: agua_embalsada = 18, agua_embalsada_por = 85.71
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 21
+root - INFO - Iteración 3: misma_semana_ultimo_año = 18, misma_semana_ultimo_año_por = 85.71
+root - INFO - Iteración 4: misma_semana_10años = 17, misma_semana_10años_por = 83.33
+root - INFO - Iteración 0: agua_embalsada = 29, agua_embalsada_por = 87.88
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -3.03
+root - INFO - Iteración 2: capacidad_total = 33
+root - INFO - Iteración 3: misma_semana_ultimo_año = 19, misma_semana_ultimo_año_por = 57.58
+root - INFO - Iteración 4: misma_semana_10años = 29, misma_semana_10años_por = 88.18
+root - INFO - Iteración 0: agua_embalsada = 11, agua_embalsada_por = 78.57
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 14
+root - INFO - Iteración 3: misma_semana_ultimo_año = 10, misma_semana_ultimo_año_por = 71.43
+root - INFO - Iteración 4: misma_semana_10años = 10, misma_semana_10años_por = 72.86
+root - INFO - Iteración 0: agua_embalsada = 405, agua_embalsada_por = 97.12
+root - INFO - Iteración 1: variacion_ultima_semana = -2, variacion_ultima_semana_por = -0.48
+root - INFO - Iteración 2: capacidad_total = 417
+root - INFO - Iteración 3: misma_semana_ultimo_año = 287, misma_semana_ultimo_año_por = 68.82
+root - INFO - Iteración 4: misma_semana_10años = 320, misma_semana_10años_por = 76.83
+root - INFO - Iteración 0: agua_embalsada = 62, agua_embalsada_por = 59.62
+root - INFO - Iteración 1: variacion_ultima_semana = 3, variacion_ultima_semana_por = 2.88
+root - INFO - Iteración 2: capacidad_total = 104
+root - INFO - Iteración 3: misma_semana_ultimo_año = 83, misma_semana_ultimo_año_por = 79.81
+root - INFO - Iteración 4: misma_semana_10años = 44, misma_semana_10años_por = 42.50
+root - INFO - Iteración 0: agua_embalsada = 14, agua_embalsada_por = 93.33
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -6.67
+root - INFO - Iteración 2: capacidad_total = 15
+root - INFO - Iteración 3: misma_semana_ultimo_año = 12, misma_semana_ultimo_año_por = 80.00
+root - INFO - Iteración 4: misma_semana_10años = 13, misma_semana_10años_por = 90.00
+root - INFO - Iteración 0: agua_embalsada = 178, agua_embalsada_por = 94.18
+root - INFO - Iteración 1: variacion_ultima_semana = -3, variacion_ultima_semana_por = -1.59
+root - INFO - Iteración 2: capacidad_total = 189
+root - INFO - Iteración 3: misma_semana_ultimo_año = 135, misma_semana_ultimo_año_por = 71.43
+root - INFO - Iteración 4: misma_semana_10años = 171, misma_semana_10años_por = 90.63
+root - INFO - Iteración 0: agua_embalsada = 59, agua_embalsada_por = 71.95
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 82
+root - INFO - Iteración 3: misma_semana_ultimo_año = 54, misma_semana_ultimo_año_por = 65.85
+root - INFO - Iteración 4: misma_semana_10años = 64, misma_semana_10años_por = 78.54
+root - INFO - Iteración 0: agua_embalsada = 7, agua_embalsada_por = 41.18
+root - INFO - Iteración 1: variacion_ultima_semana = -4, variacion_ultima_semana_por = -23.53
+root - INFO - Iteración 2: capacidad_total = 17
+root - INFO - Iteración 3: misma_semana_ultimo_año = 14, misma_semana_ultimo_año_por = 82.35
+root - INFO - Iteración 4: misma_semana_10años = 11, misma_semana_10años_por = 65.88
+root - INFO - Iteración 0: agua_embalsada = 8, agua_embalsada_por = 88.89
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 11.11
+root - INFO - Iteración 2: capacidad_total = 9
+root - INFO - Iteración 3: misma_semana_ultimo_año = 4, misma_semana_ultimo_año_por = 44.44
+root - INFO - Iteración 4: misma_semana_10años = 4, misma_semana_10años_por = 45.56
+root - INFO - Iteración 0: agua_embalsada = 3, agua_embalsada_por = 60.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 5
+root - INFO - Iteración 3: misma_semana_ultimo_año = 4, misma_semana_ultimo_año_por = 80.00
+root - INFO - Iteración 4: misma_semana_10años = 1, misma_semana_10años_por = 24.00
+root - INFO - Iteración 0: agua_embalsada = 2, agua_embalsada_por = 28.57
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 7
+root - INFO - Iteración 3: misma_semana_ultimo_año = 2, misma_semana_ultimo_año_por = 28.57
+root - INFO - Iteración 4: misma_semana_10años = 5, misma_semana_10años_por = 71.43
+root - INFO - Iteración 0: agua_embalsada = 7, agua_embalsada_por = 38.89
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 18
+root - INFO - Iteración 3: misma_semana_ultimo_año = 8, misma_semana_ultimo_año_por = 44.44
+root - INFO - Iteración 4: misma_semana_10años = 2, misma_semana_10años_por = 15.56
+root - INFO - Iteración 0: agua_embalsada = 12, agua_embalsada_por = 70.59
+root - INFO - Iteración 1: variacion_ultima_semana = -3, variacion_ultima_semana_por = -17.65
+root - INFO - Iteración 2: capacidad_total = 17
+root - INFO - Iteración 3: misma_semana_ultimo_año = 10, misma_semana_ultimo_año_por = 58.82
+root - INFO - Iteración 4: misma_semana_10años = 10, misma_semana_10años_por = 59.41
+root - INFO - Iteración 0: agua_embalsada = 9, agua_embalsada_por = 45.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 20
+root - INFO - Iteración 3: misma_semana_ultimo_año = 10, misma_semana_ultimo_año_por = 50.00
+root - INFO - Iteración 4: misma_semana_10años = 15, misma_semana_10años_por = 76.50
+root - INFO - Iteración 0: agua_embalsada = 63, agua_embalsada_por = 92.65
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -1.47
+root - INFO - Iteración 2: capacidad_total = 68
+root - INFO - Iteración 3: misma_semana_ultimo_año = 60, misma_semana_ultimo_año_por = 88.24
+root - INFO - Iteración 4: misma_semana_10años = 58, misma_semana_10años_por = 85.74
+root - INFO - Iteración 0: agua_embalsada = 403, agua_embalsada_por = 92.64
+root - INFO - Iteración 1: variacion_ultima_semana = -9, variacion_ultima_semana_por = -2.07
+root - INFO - Iteración 2: capacidad_total = 435
+root - INFO - Iteración 3: misma_semana_ultimo_año = 145, misma_semana_ultimo_año_por = 33.33
+root - INFO - Iteración 4: misma_semana_10años = 332, misma_semana_10años_por = 76.53
+root - INFO - Iteración 0: agua_embalsada = 1.227, agua_embalsada_por = 89.37
+root - INFO - Iteración 1: variacion_ultima_semana = -60, variacion_ultima_semana_por = -4.37
+root - INFO - Iteración 2: capacidad_total = 1.373
+root - INFO - Iteración 3: misma_semana_ultimo_año = 871, misma_semana_ultimo_año_por = 63.44
+root - INFO - Iteración 4: misma_semana_10años = 1.259, misma_semana_10años_por = 91.74
+root - INFO - Iteración 0: agua_embalsada = 2, agua_embalsada_por = 25.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 8
+root - INFO - Iteración 3: misma_semana_ultimo_año = 4, misma_semana_ultimo_año_por = 50.00
+root - INFO - Iteración 4: misma_semana_10años = 3, misma_semana_10años_por = 43.75
+root - INFO - Iteración 0: agua_embalsada = 6, agua_embalsada_por = 60.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 10
+root - INFO - Iteración 3: misma_semana_ultimo_año = 5, misma_semana_ultimo_año_por = 50.00
+root - INFO - Iteración 4: misma_semana_10años = 5, misma_semana_10años_por = 54.00
+root - INFO - Iteración 0: agua_embalsada = 29, agua_embalsada_por = 55.77
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 52
+root - INFO - Iteración 3: misma_semana_ultimo_año = 9, misma_semana_ultimo_año_por = 17.31
+root - INFO - Iteración 4: misma_semana_10años = 3, misma_semana_10años_por = 6.92
+root - INFO - Iteración 0: agua_embalsada = 5, agua_embalsada_por = 100.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 5
+root - INFO - Iteración 3: misma_semana_ultimo_año = 5, misma_semana_ultimo_año_por = 100.00
+root - INFO - Iteración 4: misma_semana_10años = 1, misma_semana_10años_por = 30.00
+root - INFO - Iteración 0: agua_embalsada = 67, agua_embalsada_por = 79.76
+root - INFO - Iteración 1: variacion_ultima_semana = -8, variacion_ultima_semana_por = -9.52
+root - INFO - Iteración 2: capacidad_total = 84
+root - INFO - Iteración 3: misma_semana_ultimo_año = 36, misma_semana_ultimo_año_por = 42.86
+root - INFO - Iteración 4: misma_semana_10años = 57, misma_semana_10años_por = 68.33
+root - INFO - Iteración 0: agua_embalsada = 30, agua_embalsada_por = 85.71
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 35
+root - INFO - Iteración 3: misma_semana_ultimo_año = 13, misma_semana_ultimo_año_por = 37.14
+root - INFO - Iteración 4: misma_semana_10años = 27, misma_semana_10años_por = 79.43
+root - INFO - Iteración 0: agua_embalsada = 9, agua_embalsada_por = 50.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 18
+root - INFO - Iteración 3: misma_semana_ultimo_año = 14, misma_semana_ultimo_año_por = 77.78
+root - INFO - Iteración 4: misma_semana_10años = 14, misma_semana_10años_por = 79.44
+root - INFO - Iteración 0: agua_embalsada = 9, agua_embalsada_por = 50.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 18
+root - INFO - Iteración 3: misma_semana_ultimo_año = 18, misma_semana_ultimo_año_por = 100.00
+root - INFO - Iteración 4: misma_semana_10años = 10, misma_semana_10años_por = 56.11
+root - INFO - Iteración 0: agua_embalsada = 131, agua_embalsada_por = 32.43
+root - INFO - Iteración 1: variacion_ultima_semana = 4, variacion_ultima_semana_por = 0.99
+root - INFO - Iteración 2: capacidad_total = 404
+root - INFO - Iteración 3: misma_semana_ultimo_año = 23, misma_semana_ultimo_año_por = 5.69
+root - INFO - Iteración 4: misma_semana_10años = 293, misma_semana_10años_por = 72.65
+root - INFO - Iteración 0: agua_embalsada = 201, agua_embalsada_por = 95.71
+root - INFO - Iteración 1: variacion_ultima_semana = 7, variacion_ultima_semana_por = 3.33
+root - INFO - Iteración 2: capacidad_total = 210
+root - INFO - Iteración 3: misma_semana_ultimo_año = 202, misma_semana_ultimo_año_por = 96.19
+root - INFO - Iteración 4: misma_semana_10años = 198, misma_semana_10años_por = 94.43
+root - INFO - Iteración 0: agua_embalsada = 5, agua_embalsada_por = 83.33
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 6
+root - INFO - Iteración 3: misma_semana_ultimo_año = 3, misma_semana_ultimo_año_por = 50.00
+root - INFO - Iteración 4: misma_semana_10años = 2, misma_semana_10años_por = 36.67
+root - INFO - Iteración 0: agua_embalsada = 9, agua_embalsada_por = 90.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 10
+root - INFO - Iteración 3: misma_semana_ultimo_año = 9, misma_semana_ultimo_año_por = 90.00
+root - INFO - Iteración 4: misma_semana_10años = 5, misma_semana_10años_por = 54.00
+root - INFO - Iteración 0: agua_embalsada = 205, agua_embalsada_por = 86.50
+root - INFO - Iteración 1: variacion_ultima_semana = 3, variacion_ultima_semana_por = 1.27
+root - INFO - Iteración 2: capacidad_total = 237
+root - INFO - Iteración 3: misma_semana_ultimo_año = 167, misma_semana_ultimo_año_por = 70.46
+root - INFO - Iteración 4: misma_semana_10años = 167, misma_semana_10años_por = 70.80
+root - INFO - Iteración 0: agua_embalsada = 2, agua_embalsada_por = 40.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 5
+root - INFO - Iteración 3: misma_semana_ultimo_año = 3, misma_semana_ultimo_año_por = 60.00
+root - INFO - Iteración 4: misma_semana_10años = 30, misma_semana_10años_por = 610.00
+root - INFO - Iteración 0: agua_embalsada = 17, agua_embalsada_por = 85.00
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 5.00
+root - INFO - Iteración 2: capacidad_total = 20
+root - INFO - Iteración 3: misma_semana_ultimo_año = 15, misma_semana_ultimo_año_por = 75.00
+root - INFO - Iteración 4: misma_semana_10años = 17, misma_semana_10años_por = 87.00
+root - INFO - Iteración 0: agua_embalsada = 32, agua_embalsada_por = 96.97
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 33
+root - INFO - Iteración 3: misma_semana_ultimo_año = 31, misma_semana_ultimo_año_por = 93.94
+root - INFO - Iteración 4: misma_semana_10años = 27, misma_semana_10años_por = 83.33
+root - INFO - Iteración 0: agua_embalsada = 195, agua_embalsada_por = 85.90
+root - INFO - Iteración 1: variacion_ultima_semana = -3, variacion_ultima_semana_por = -1.32
+root - INFO - Iteración 2: capacidad_total = 227
+root - INFO - Iteración 3: misma_semana_ultimo_año = 142, misma_semana_ultimo_año_por = 62.56
+root - INFO - Iteración 4: misma_semana_10años = 156, misma_semana_10años_por = 69.07
+root - INFO - Iteración 0: agua_embalsada = 123, agua_embalsada_por = 84.25
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -0.68
+root - INFO - Iteración 2: capacidad_total = 146
+root - INFO - Iteración 3: misma_semana_ultimo_año = 110, misma_semana_ultimo_año_por = 75.34
+root - INFO - Iteración 4: misma_semana_10años = 124, misma_semana_10años_por = 84.93
+root - INFO - Iteración 0: agua_embalsada = 5, agua_embalsada_por = 83.33
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 6
+root - INFO - Iteración 3: misma_semana_ultimo_año = 5, misma_semana_ultimo_año_por = 83.33
+root - INFO - Iteración 4: misma_semana_10años = 4, misma_semana_10años_por = 78.33
+root - INFO - Iteración 0: agua_embalsada = 57, agua_embalsada_por = 79.17
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 72
+root - INFO - Iteración 3: misma_semana_ultimo_año = 53, misma_semana_ultimo_año_por = 73.61
+root - INFO - Iteración 4: misma_semana_10años = 57, misma_semana_10años_por = 79.58
+root - INFO - Iteración 0: agua_embalsada = 14, agua_embalsada_por = 87.50
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 16
+root - INFO - Iteración 3: misma_semana_ultimo_año = 5, misma_semana_ultimo_año_por = 31.25
+root - INFO - Iteración 4: misma_semana_10años = 12, misma_semana_10años_por = 75.00
+root - INFO - Iteración 0: agua_embalsada = 1, agua_embalsada_por = 16.67
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 6
+root - INFO - Iteración 3: misma_semana_ultimo_año = 1, misma_semana_ultimo_año_por = 16.67
+root - INFO - Iteración 4: misma_semana_10años = 0, misma_semana_10años_por = 5.00
+root - INFO - Iteración 0: agua_embalsada = 409, agua_embalsada_por = 91.50
+root - INFO - Iteración 1: variacion_ultima_semana = -9, variacion_ultima_semana_por = -2.01
+root - INFO - Iteración 2: capacidad_total = 447
+root - INFO - Iteración 3: misma_semana_ultimo_año = 248, misma_semana_ultimo_año_por = 55.48
+root - INFO - Iteración 4: misma_semana_10años = 365, misma_semana_10años_por = 81.86
+root - INFO - Iteración 0: agua_embalsada = 11, agua_embalsada_por = 73.33
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 6.67
+root - INFO - Iteración 2: capacidad_total = 15
+root - INFO - Iteración 3: misma_semana_ultimo_año = 20, misma_semana_ultimo_año_por = 133.33
+root - INFO - Iteración 4: misma_semana_10años = 16, misma_semana_10años_por = 112.67
+root - INFO - Iteración 0: agua_embalsada = 207, agua_embalsada_por = 83.81
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 0.40
+root - INFO - Iteración 2: capacidad_total = 247
+root - INFO - Iteración 3: misma_semana_ultimo_año = 106, misma_semana_ultimo_año_por = 42.91
+root - INFO - Iteración 4: misma_semana_10años = 179, misma_semana_10años_por = 72.71
+root - INFO - Iteración 0: agua_embalsada = 104, agua_embalsada_por = 91.23
+root - INFO - Iteración 1: variacion_ultima_semana = -5, variacion_ultima_semana_por = -4.39
+root - INFO - Iteración 2: capacidad_total = 114
+root - INFO - Iteración 3: misma_semana_ultimo_año = 104, misma_semana_ultimo_año_por = 91.23
+root - INFO - Iteración 4: misma_semana_10años = 107, misma_semana_10años_por = 94.21
+root - INFO - Iteración 0: agua_embalsada = 2.517, agua_embalsada_por = 95.02
+root - INFO - Iteración 1: variacion_ultima_semana = -30, variacion_ultima_semana_por = -1.13
+root - INFO - Iteración 2: capacidad_total = 2.649
+root - INFO - Iteración 3: misma_semana_ultimo_año = 1.528, misma_semana_ultimo_año_por = 57.68
+root - INFO - Iteración 4: misma_semana_10años = 1.811, misma_semana_10años_por = 68.37
+root - INFO - Iteración 0: agua_embalsada = 20, agua_embalsada_por = 90.91
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -4.55
+root - INFO - Iteración 2: capacidad_total = 22
+root - INFO - Iteración 3: misma_semana_ultimo_año = 17, misma_semana_ultimo_año_por = 77.27
+root - INFO - Iteración 4: misma_semana_10años = 20, misma_semana_10años_por = 94.55
+root - INFO - Iteración 0: agua_embalsada = 298, agua_embalsada_por = 96.75
+root - INFO - Iteración 1: variacion_ultima_semana = 2, variacion_ultima_semana_por = 0.65
+root - INFO - Iteración 2: capacidad_total = 308
+root - INFO - Iteración 3: misma_semana_ultimo_año = 268, misma_semana_ultimo_año_por = 87.01
+root - INFO - Iteración 4: misma_semana_10años = 276, misma_semana_10años_por = 89.71
+root - INFO - Iteración 0: agua_embalsada = 12, agua_embalsada_por = 85.71
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 14
+root - INFO - Iteración 3: misma_semana_ultimo_año = 12, misma_semana_ultimo_año_por = 85.71
+root - INFO - Iteración 4: misma_semana_10años = 12, misma_semana_10años_por = 91.43
+root - INFO - Iteración 0: agua_embalsada = 62, agua_embalsada_por = 89.86
+root - INFO - Iteración 1: variacion_ultima_semana = -2, variacion_ultima_semana_por = -2.90
+root - INFO - Iteración 2: capacidad_total = 69
+root - INFO - Iteración 3: misma_semana_ultimo_año = 63, misma_semana_ultimo_año_por = 91.30
+root - INFO - Iteración 4: misma_semana_10años = 60, misma_semana_10años_por = 87.83
+root - INFO - Iteración 0: agua_embalsada = 25, agua_embalsada_por = 92.59
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 27
+root - INFO - Iteración 3: misma_semana_ultimo_año = 23, misma_semana_ultimo_año_por = 85.19
+root - INFO - Iteración 4: misma_semana_10años = 24, misma_semana_10años_por = 90.00
+root - INFO - Iteración 0: agua_embalsada = 54, agua_embalsada_por = 93.10
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 58
+root - INFO - Iteración 3: misma_semana_ultimo_año = 50, misma_semana_ultimo_año_por = 86.21
+root - INFO - Iteración 4: misma_semana_10años = 49, misma_semana_10años_por = 85.69
+root - INFO - Iteración 0: agua_embalsada = 232, agua_embalsada_por = 90.98
+root - INFO - Iteración 1: variacion_ultima_semana = 3, variacion_ultima_semana_por = 1.18
+root - INFO - Iteración 2: capacidad_total = 255
+root - INFO - Iteración 3: misma_semana_ultimo_año = 176, misma_semana_ultimo_año_por = 69.02
+root - INFO - Iteración 4: misma_semana_10años = 175, misma_semana_10años_por = 68.78
+root - INFO - Iteración 0: agua_embalsada = 8, agua_embalsada_por = 80.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 10
+root - INFO - Iteración 3: misma_semana_ultimo_año = 9, misma_semana_ultimo_año_por = 90.00
+root - INFO - Iteración 4: misma_semana_10años = 8, misma_semana_10años_por = 81.00
+root - INFO - Iteración 0: agua_embalsada = 90, agua_embalsada_por = 94.74
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 1.05
+root - INFO - Iteración 2: capacidad_total = 95
+root - INFO - Iteración 3: misma_semana_ultimo_año = 67, misma_semana_ultimo_año_por = 70.53
+root - INFO - Iteración 4: misma_semana_10años = 77, misma_semana_10años_por = 81.89
+root - INFO - Iteración 0: agua_embalsada = 217, agua_embalsada_por = 87.15
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 249
+root - INFO - Iteración 3: misma_semana_ultimo_año = 183, misma_semana_ultimo_año_por = 73.49
+root - INFO - Iteración 4: misma_semana_10años = 207, misma_semana_10años_por = 83.21
+root - INFO - Iteración 0: agua_embalsada = 96, agua_embalsada_por = 87.27
+root - INFO - Iteración 1: variacion_ultima_semana = -2, variacion_ultima_semana_por = -1.82
+root - INFO - Iteración 2: capacidad_total = 110
+root - INFO - Iteración 3: misma_semana_ultimo_año = 0, misma_semana_ultimo_año_por = 0.00
+root - INFO - Iteración 4: misma_semana_10años = 0, misma_semana_10años_por = 0.00
+root - INFO - Iteración 0: agua_embalsada = 4, agua_embalsada_por = 80.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 5
+root - INFO - Iteración 3: misma_semana_ultimo_año = 4, misma_semana_ultimo_año_por = 80.00
+root - INFO - Iteración 4: misma_semana_10años = 4, misma_semana_10años_por = 92.00
+root - INFO - Iteración 0: agua_embalsada = 49, agua_embalsada_por = 90.74
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 54
+root - INFO - Iteración 3: misma_semana_ultimo_año = 47, misma_semana_ultimo_año_por = 87.04
+root - INFO - Iteración 4: misma_semana_10años = 45, misma_semana_10años_por = 84.26
+root - INFO - Iteración 0: agua_embalsada = 28, agua_embalsada_por = 77.78
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 2.78
+root - INFO - Iteración 2: capacidad_total = 36
+root - INFO - Iteración 3: misma_semana_ultimo_año = 29, misma_semana_ultimo_año_por = 80.56
+root - INFO - Iteración 4: misma_semana_10años = 29, misma_semana_10años_por = 81.94
+root - INFO - Iteración 0: agua_embalsada = 7, agua_embalsada_por = 100.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 7
+root - INFO - Iteración 3: misma_semana_ultimo_año = 7, misma_semana_ultimo_año_por = 100.00
+root - INFO - Iteración 4: misma_semana_10años = 7, misma_semana_10años_por = 100.00
+root - INFO - Iteración 0: agua_embalsada = 288, agua_embalsada_por = 90.57
+root - INFO - Iteración 1: variacion_ultima_semana = 2, variacion_ultima_semana_por = 0.63
+root - INFO - Iteración 2: capacidad_total = 318
+root - INFO - Iteración 3: misma_semana_ultimo_año = 236, misma_semana_ultimo_año_por = 74.21
+root - INFO - Iteración 4: misma_semana_10años = 276, misma_semana_10años_por = 87.08
+root - INFO - Iteración 0: agua_embalsada = 13, agua_embalsada_por = 22.03
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 1.69
+root - INFO - Iteración 2: capacidad_total = 59
+root - INFO - Iteración 3: misma_semana_ultimo_año = 28, misma_semana_ultimo_año_por = 47.46
+root - INFO - Iteración 4: misma_semana_10años = 47, misma_semana_10años_por = 80.34
+root - INFO - Iteración 0: agua_embalsada = 595, agua_embalsada_por = 92.82
+root - INFO - Iteración 1: variacion_ultima_semana = 4, variacion_ultima_semana_por = 0.62
+root - INFO - Iteración 2: capacidad_total = 641
+root - INFO - Iteración 3: misma_semana_ultimo_año = 485, misma_semana_ultimo_año_por = 75.66
+root - INFO - Iteración 4: misma_semana_10años = 562, misma_semana_10años_por = 87.80
+root - INFO - Iteración 0: agua_embalsada = 977, agua_embalsada_por = 85.33
+root - INFO - Iteración 1: variacion_ultima_semana = -86, variacion_ultima_semana_por = -7.51
+root - INFO - Iteración 2: capacidad_total = 1.145
+root - INFO - Iteración 3: misma_semana_ultimo_año = 741, misma_semana_ultimo_año_por = 64.72
+root - INFO - Iteración 4: misma_semana_10años = 790, misma_semana_10años_por = 69.00
+root - INFO - Iteración 0: agua_embalsada = 463, agua_embalsada_por = 93.35
+root - INFO - Iteración 1: variacion_ultima_semana = 3, variacion_ultima_semana_por = 0.60
+root - INFO - Iteración 2: capacidad_total = 496
+root - INFO - Iteración 3: misma_semana_ultimo_año = 380, misma_semana_ultimo_año_por = 76.61
+root - INFO - Iteración 4: misma_semana_10años = 423, misma_semana_10años_por = 85.46
+root - INFO - Iteración 0: agua_embalsada = 175, agua_embalsada_por = 96.69
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -0.55
+root - INFO - Iteración 2: capacidad_total = 181
+root - INFO - Iteración 3: misma_semana_ultimo_año = 173, misma_semana_ultimo_año_por = 95.58
+root - INFO - Iteración 4: misma_semana_10años = 176, misma_semana_10años_por = 97.24
+root - INFO - Iteración 0: agua_embalsada = 67, agua_embalsada_por = 89.33
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 1.33
+root - INFO - Iteración 2: capacidad_total = 75
+root - INFO - Iteración 3: misma_semana_ultimo_año = 56, misma_semana_ultimo_año_por = 74.67
+root - INFO - Iteración 4: misma_semana_10años = 58, misma_semana_10años_por = 78.13
+root - INFO - Iteración 0: agua_embalsada = 154, agua_embalsada_por = 91.12
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 169
+root - INFO - Iteración 3: misma_semana_ultimo_año = 151, misma_semana_ultimo_año_por = 89.35
+root - INFO - Iteración 4: misma_semana_10años = 154, misma_semana_10años_por = 91.24
+root - INFO - Iteración 0: agua_embalsada = 6, agua_embalsada_por = 100.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 6
+root - INFO - Iteración 3: misma_semana_ultimo_año = 6, misma_semana_ultimo_año_por = 100.00
+root - INFO - Iteración 4: misma_semana_10años = 6, misma_semana_10años_por = 100.00
+root - INFO - Iteración 0: agua_embalsada = 59, agua_embalsada_por = 89.39
+root - INFO - Iteración 1: variacion_ultima_semana = -4, variacion_ultima_semana_por = -6.06
+root - INFO - Iteración 2: capacidad_total = 66
+root - INFO - Iteración 3: misma_semana_ultimo_año = 59, misma_semana_ultimo_año_por = 89.39
+root - INFO - Iteración 4: misma_semana_10años = 60, misma_semana_10años_por = 91.06
+root - INFO - Iteración 0: agua_embalsada = 18, agua_embalsada_por = 90.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 20
+root - INFO - Iteración 3: misma_semana_ultimo_año = 18, misma_semana_ultimo_año_por = 90.00
+root - INFO - Iteración 4: misma_semana_10años = 17, misma_semana_10años_por = 86.50
+root - INFO - Iteración 0: agua_embalsada = 47, agua_embalsada_por = 51.65
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 1.10
+root - INFO - Iteración 2: capacidad_total = 91
+root - INFO - Iteración 3: misma_semana_ultimo_año = 53, misma_semana_ultimo_año_por = 58.24
+root - INFO - Iteración 4: misma_semana_10años = 46, misma_semana_10años_por = 50.99
+root - INFO - Iteración 0: agua_embalsada = 222, agua_embalsada_por = 93.28
+root - INFO - Iteración 1: variacion_ultima_semana = 17, variacion_ultima_semana_por = 7.14
+root - INFO - Iteración 2: capacidad_total = 238
+root - INFO - Iteración 3: misma_semana_ultimo_año = 194, misma_semana_ultimo_año_por = 81.51
+root - INFO - Iteración 4: misma_semana_10años = 185, misma_semana_10años_por = 78.07
+root - INFO - Iteración 0: agua_embalsada = 316, agua_embalsada_por = 92.67
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 341
+root - INFO - Iteración 3: misma_semana_ultimo_año = 269, misma_semana_ultimo_año_por = 78.89
+root - INFO - Iteración 4: misma_semana_10años = 286, misma_semana_10años_por = 83.96
+root - INFO - Iteración 0: agua_embalsada = 565, agua_embalsada_por = 86.26
+root - INFO - Iteración 1: variacion_ultima_semana = 25, variacion_ultima_semana_por = 3.82
+root - INFO - Iteración 2: capacidad_total = 655
+root - INFO - Iteración 3: misma_semana_ultimo_año = 485, misma_semana_ultimo_año_por = 74.05
+root - INFO - Iteración 4: misma_semana_10años = 494, misma_semana_10años_por = 75.53
+root - INFO - Iteración 0: agua_embalsada = 49, agua_embalsada_por = 81.67
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -1.67
+root - INFO - Iteración 2: capacidad_total = 60
+root - INFO - Iteración 3: misma_semana_ultimo_año = 49, misma_semana_ultimo_año_por = 81.67
+root - INFO - Iteración 4: misma_semana_10años = 52, misma_semana_10años_por = 86.67
+root - INFO - Iteración 0: agua_embalsada = 39, agua_embalsada_por = 88.64
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 44
+root - INFO - Iteración 3: misma_semana_ultimo_año = 38, misma_semana_ultimo_año_por = 86.36
+root - INFO - Iteración 4: misma_semana_10años = 38, misma_semana_10años_por = 88.18
+root - INFO - Iteración 0: agua_embalsada = 64, agua_embalsada_por = 80.00
+root - INFO - Iteración 1: variacion_ultima_semana = -2, variacion_ultima_semana_por = -2.50
+root - INFO - Iteración 2: capacidad_total = 80
+root - INFO - Iteración 3: misma_semana_ultimo_año = 59, misma_semana_ultimo_año_por = 73.75
+root - INFO - Iteración 4: misma_semana_10años = 59, misma_semana_10años_por = 74.50
+root - INFO - Iteración 0: agua_embalsada = 494, agua_embalsada_por = 92.16
+root - INFO - Iteración 1: variacion_ultima_semana = -23, variacion_ultima_semana_por = -4.29
+root - INFO - Iteración 2: capacidad_total = 536
+root - INFO - Iteración 3: misma_semana_ultimo_año = 413, misma_semana_ultimo_año_por = 77.05
+root - INFO - Iteración 4: misma_semana_10años = 394, misma_semana_10años_por = 73.68
+root - INFO - Iteración 0: agua_embalsada = 27, agua_embalsada_por = 96.43
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -3.57
+root - INFO - Iteración 2: capacidad_total = 28
+root - INFO - Iteración 3: misma_semana_ultimo_año = 8, misma_semana_ultimo_año_por = 28.57
+root - INFO - Iteración 4: misma_semana_10años = 17, misma_semana_10años_por = 63.57
+root - INFO - Iteración 0: agua_embalsada = 177, agua_embalsada_por = 97.25
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -0.55
+root - INFO - Iteración 2: capacidad_total = 182
+root - INFO - Iteración 3: misma_semana_ultimo_año = 178, misma_semana_ultimo_año_por = 97.80
+root - INFO - Iteración 4: misma_semana_10años = 177, misma_semana_10años_por = 97.75
+root - INFO - Iteración 0: agua_embalsada = 53, agua_embalsada_por = 81.54
+root - INFO - Iteración 1: variacion_ultima_semana = -6, variacion_ultima_semana_por = -9.23
+root - INFO - Iteración 2: capacidad_total = 65
+root - INFO - Iteración 3: misma_semana_ultimo_año = 30, misma_semana_ultimo_año_por = 46.15
+root - INFO - Iteración 4: misma_semana_10años = 44, misma_semana_10años_por = 68.15
+root - INFO - Iteración 0: agua_embalsada = 9, agua_embalsada_por = 90.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 10
+root - INFO - Iteración 3: misma_semana_ultimo_año = 10, misma_semana_ultimo_año_por = 100.00
+root - INFO - Iteración 4: misma_semana_10años = 9, misma_semana_10años_por = 94.00
+root - INFO - Iteración 0: agua_embalsada = 111, agua_embalsada_por = 90.98
+root - INFO - Iteración 1: variacion_ultima_semana = -3, variacion_ultima_semana_por = -2.46
+root - INFO - Iteración 2: capacidad_total = 122
+root - INFO - Iteración 3: misma_semana_ultimo_año = 99, misma_semana_ultimo_año_por = 81.15
+root - INFO - Iteración 4: misma_semana_10años = 96, misma_semana_10años_por = 79.10
+root - INFO - Iteración 0: agua_embalsada = 57, agua_embalsada_por = 65.52
+root - INFO - Iteración 1: variacion_ultima_semana = -2, variacion_ultima_semana_por = -2.30
+root - INFO - Iteración 2: capacidad_total = 87
+root - INFO - Iteración 3: misma_semana_ultimo_año = 42, misma_semana_ultimo_año_por = 48.28
+root - INFO - Iteración 4: misma_semana_10años = 47, misma_semana_10años_por = 54.48
+root - INFO - Iteración 0: agua_embalsada = 174, agua_embalsada_por = 81.69
+root - INFO - Iteración 1: variacion_ultima_semana = -25, variacion_ultima_semana_por = -11.74
+root - INFO - Iteración 2: capacidad_total = 213
+root - INFO - Iteración 3: misma_semana_ultimo_año = 177, misma_semana_ultimo_año_por = 83.10
+root - INFO - Iteración 4: misma_semana_10años = 188, misma_semana_10años_por = 88.26
+root - INFO - Iteración 0: agua_embalsada = 9, agua_embalsada_por = 90.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 10
+root - INFO - Iteración 3: misma_semana_ultimo_año = 9, misma_semana_ultimo_año_por = 90.00
+root - INFO - Iteración 4: misma_semana_10años = 9, misma_semana_10años_por = 90.00
+root - INFO - Iteración 0: agua_embalsada = 15, agua_embalsada_por = 88.24
+root - INFO - Iteración 1: variacion_ultima_semana = 2, variacion_ultima_semana_por = 11.76
+root - INFO - Iteración 2: capacidad_total = 17
+root - INFO - Iteración 3: misma_semana_ultimo_año = 14, misma_semana_ultimo_año_por = 82.35
+root - INFO - Iteración 4: misma_semana_10años = 13, misma_semana_10años_por = 79.41
+root - INFO - Iteración 0: agua_embalsada = 19, agua_embalsada_por = 90.48
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 21
+root - INFO - Iteración 3: misma_semana_ultimo_año = 17, misma_semana_ultimo_año_por = 80.95
+root - INFO - Iteración 4: misma_semana_10años = 16, misma_semana_10años_por = 79.52
+root - INFO - Iteración 0: agua_embalsada = 788, agua_embalsada_por = 70.48
+root - INFO - Iteración 1: variacion_ultima_semana = -4, variacion_ultima_semana_por = -0.36
+root - INFO - Iteración 2: capacidad_total = 1.118
+root - INFO - Iteración 3: misma_semana_ultimo_año = 666, misma_semana_ultimo_año_por = 59.57
+root - INFO - Iteración 4: misma_semana_10años = 610, misma_semana_10años_por = 54.59
+root - INFO - Iteración 0: agua_embalsada = 3, agua_embalsada_por = 18.75
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 16
+root - INFO - Iteración 3: misma_semana_ultimo_año = 7, misma_semana_ultimo_año_por = 43.75
+root - INFO - Iteración 4: misma_semana_10años = 7, misma_semana_10años_por = 48.13
+root - INFO - Iteración 0: agua_embalsada = 39, agua_embalsada_por = 28.47
+root - INFO - Iteración 1: variacion_ultima_semana = -2, variacion_ultima_semana_por = -1.46
+root - INFO - Iteración 2: capacidad_total = 137
+root - INFO - Iteración 3: misma_semana_ultimo_año = 66, misma_semana_ultimo_año_por = 48.18
+root - INFO - Iteración 4: misma_semana_10años = 72, misma_semana_10años_por = 52.99
+root - INFO - Iteración 0: agua_embalsada = 18, agua_embalsada_por = 85.71
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 21
+root - INFO - Iteración 3: misma_semana_ultimo_año = 18, misma_semana_ultimo_año_por = 85.71
+root - INFO - Iteración 4: misma_semana_10años = 17, misma_semana_10años_por = 81.90
+root - INFO - Iteración 0: agua_embalsada = 17, agua_embalsada_por = 24.64
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 69
+root - INFO - Iteración 3: misma_semana_ultimo_año = 22, misma_semana_ultimo_año_por = 31.88
+root - INFO - Iteración 4: misma_semana_10años = 15, misma_semana_10años_por = 22.61
+root - INFO - Iteración 0: agua_embalsada = 136, agua_embalsada_por = 61.54
+root - INFO - Iteración 1: variacion_ultima_semana = -3, variacion_ultima_semana_por = -1.36
+root - INFO - Iteración 2: capacidad_total = 221
+root - INFO - Iteración 3: misma_semana_ultimo_año = 213, misma_semana_ultimo_año_por = 96.38
+root - INFO - Iteración 4: misma_semana_10años = 147, misma_semana_10años_por = 66.83
+root - INFO - Iteración 0: agua_embalsada = 6, agua_embalsada_por = 22.22
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 27
+root - INFO - Iteración 3: misma_semana_ultimo_año = 17, misma_semana_ultimo_año_por = 62.96
+root - INFO - Iteración 4: misma_semana_10años = 17, misma_semana_10años_por = 64.44
+root - INFO - Iteración 0: agua_embalsada = 1, agua_embalsada_por = 12.50
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 8
+root - INFO - Iteración 3: misma_semana_ultimo_año = 2, misma_semana_ultimo_año_por = 25.00
+root - INFO - Iteración 4: misma_semana_10años = 3, misma_semana_10años_por = 48.75
+root - INFO - Iteración 0: agua_embalsada = 265, agua_embalsada_por = 73.41
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -0.28
+root - INFO - Iteración 2: capacidad_total = 361
+root - INFO - Iteración 3: misma_semana_ultimo_año = 334, misma_semana_ultimo_año_por = 92.52
+root - INFO - Iteración 4: misma_semana_10años = 254, misma_semana_10años_por = 70.55
+root - INFO - Iteración 0: agua_embalsada = 2, agua_embalsada_por = 33.33
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 6
+root - INFO - Iteración 3: misma_semana_ultimo_año = 4, misma_semana_ultimo_año_por = 66.67
+root - INFO - Iteración 4: misma_semana_10años = 4, misma_semana_10años_por = 81.67
+root - INFO - Iteración 0: agua_embalsada = 5, agua_embalsada_por = 5.05
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 99
+root - INFO - Iteración 3: misma_semana_ultimo_año = 5, misma_semana_ultimo_año_por = 5.05
+root - INFO - Iteración 4: misma_semana_10años = 5, misma_semana_10años_por = 5.86
+root - INFO - Iteración 0: agua_embalsada = 10, agua_embalsada_por = 27.03
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 37
+root - INFO - Iteración 3: misma_semana_ultimo_año = 15, misma_semana_ultimo_año_por = 40.54
+root - INFO - Iteración 4: misma_semana_10años = 12, misma_semana_10años_por = 34.32
+root - INFO - Iteración 0: agua_embalsada = 4, agua_embalsada_por = 30.77
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 13
+root - INFO - Iteración 3: misma_semana_ultimo_año = 9, misma_semana_ultimo_año_por = 69.23
+root - INFO - Iteración 4: misma_semana_10años = 8, misma_semana_10años_por = 61.54
+root - INFO - Iteración 0: agua_embalsada = 8, agua_embalsada_por = 80.00
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -10.00
+root - INFO - Iteración 2: capacidad_total = 10
+root - INFO - Iteración 3: misma_semana_ultimo_año = 6, misma_semana_ultimo_año_por = 60.00
+root - INFO - Iteración 4: misma_semana_10años = 6, misma_semana_10años_por = 65.00
+root - INFO - Iteración 0: agua_embalsada = 22, agua_embalsada_por = 30.14
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 73
+root - INFO - Iteración 3: misma_semana_ultimo_año = 25, misma_semana_ultimo_año_por = 34.25
+root - INFO - Iteración 4: misma_semana_10años = 25, misma_semana_10años_por = 34.52
+root - INFO - Iteración 0: agua_embalsada = 10, agua_embalsada_por = 20.41
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 49
+root - INFO - Iteración 3: misma_semana_ultimo_año = 26, misma_semana_ultimo_año_por = 53.06
+root - INFO - Iteración 4: misma_semana_10años = 34, misma_semana_10años_por = 69.80
+root - INFO - Iteración 0: agua_embalsada = 138, agua_embalsada_por = 36.41
+root - INFO - Iteración 1: variacion_ultima_semana = 11, variacion_ultima_semana_por = 2.90
+root - INFO - Iteración 2: capacidad_total = 379
+root - INFO - Iteración 3: misma_semana_ultimo_año = 147, misma_semana_ultimo_año_por = 38.79
+root - INFO - Iteración 4: misma_semana_10años = 172, misma_semana_10años_por = 45.51
+root - INFO - Iteración 0: agua_embalsada = 5, agua_embalsada_por = 83.33
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 6
+root - INFO - Iteración 3: misma_semana_ultimo_año = 4, misma_semana_ultimo_año_por = 66.67
+root - INFO - Iteración 4: misma_semana_10años = 4, misma_semana_10años_por = 73.33
+root - INFO - Iteración 0: agua_embalsada = 13, agua_embalsada_por = 92.86
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 14
+root - INFO - Iteración 3: misma_semana_ultimo_año = 13, misma_semana_ultimo_año_por = 92.86
+root - INFO - Iteración 4: misma_semana_10años = 13, misma_semana_10años_por = 93.57
+root - INFO - Iteración 0: agua_embalsada = 51, agua_embalsada_por = 22.37
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 228
+root - INFO - Iteración 3: misma_semana_ultimo_año = 43, misma_semana_ultimo_año_por = 18.86
+root - INFO - Iteración 4: misma_semana_10años = 128, misma_semana_10años_por = 56.45
+root - INFO - Iteración 0: agua_embalsada = 82, agua_embalsada_por = 41.00
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 0.50
+root - INFO - Iteración 2: capacidad_total = 200
+root - INFO - Iteración 3: misma_semana_ultimo_año = 53, misma_semana_ultimo_año_por = 26.50
+root - INFO - Iteración 4: misma_semana_10años = 106, misma_semana_10años_por = 53.35
+root - INFO - Iteración 0: agua_embalsada = 15, agua_embalsada_por = 33.33
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 45
+root - INFO - Iteración 3: misma_semana_ultimo_año = 10, misma_semana_ultimo_año_por = 22.22
+root - INFO - Iteración 4: misma_semana_10años = 27, misma_semana_10años_por = 61.78
+root - INFO - Iteración 0: agua_embalsada = 176, agua_embalsada_por = 22.00
+root - INFO - Iteración 1: variacion_ultima_semana = 3, variacion_ultima_semana_por = 0.38
+root - INFO - Iteración 2: capacidad_total = 800
+root - INFO - Iteración 3: misma_semana_ultimo_año = 203, misma_semana_ultimo_año_por = 25.38
+root - INFO - Iteración 4: misma_semana_10años = 448, misma_semana_10años_por = 56.01
+root - INFO - Iteración 0: agua_embalsada = 126, agua_embalsada_por = 93.33
+root - INFO - Iteración 1: variacion_ultima_semana = -2, variacion_ultima_semana_por = -1.48
+root - INFO - Iteración 2: capacidad_total = 135
+root - INFO - Iteración 3: misma_semana_ultimo_año = 81, misma_semana_ultimo_año_por = 60.00
+root - INFO - Iteración 4: misma_semana_10años = 105, misma_semana_10años_por = 77.85
+root - INFO - Iteración 0: agua_embalsada = 39, agua_embalsada_por = 17.49
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 223
+root - INFO - Iteración 3: misma_semana_ultimo_año = 74, misma_semana_ultimo_año_por = 33.18
+root - INFO - Iteración 4: misma_semana_10años = 149, misma_semana_10años_por = 67.22
+root - INFO - Iteración 0: agua_embalsada = 8, agua_embalsada_por = 12.70
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 63
+root - INFO - Iteración 3: misma_semana_ultimo_año = 6, misma_semana_ultimo_año_por = 9.52
+root - INFO - Iteración 4: misma_semana_10años = 8, misma_semana_10años_por = 13.65
+root - INFO - Iteración 0: agua_embalsada = 40, agua_embalsada_por = 75.47
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 1.89
+root - INFO - Iteración 2: capacidad_total = 53
+root - INFO - Iteración 3: misma_semana_ultimo_año = 38, misma_semana_ultimo_año_por = 71.70
+root - INFO - Iteración 4: misma_semana_10años = 40, misma_semana_10años_por = 76.60
+root - INFO - Iteración 0: agua_embalsada = 6, agua_embalsada_por = 27.27
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 22
+root - INFO - Iteración 3: misma_semana_ultimo_año = 8, misma_semana_ultimo_año_por = 36.36
+root - INFO - Iteración 4: misma_semana_10años = 11, misma_semana_10años_por = 51.82
+root - INFO - Iteración 0: agua_embalsada = 30, agua_embalsada_por = 36.59
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 82
+root - INFO - Iteración 3: misma_semana_ultimo_año = 29, misma_semana_ultimo_año_por = 35.37
+root - INFO - Iteración 4: misma_semana_10años = 45, misma_semana_10años_por = 55.61
+root - INFO - Iteración 0: agua_embalsada = 23, agua_embalsada_por = 34.85
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 66
+root - INFO - Iteración 3: misma_semana_ultimo_año = 18, misma_semana_ultimo_año_por = 27.27
+root - INFO - Iteración 4: misma_semana_10años = 48, misma_semana_10años_por = 73.33
+root - INFO - Iteración 0: agua_embalsada = 11, agua_embalsada_por = 6.83
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -0.62
+root - INFO - Iteración 2: capacidad_total = 161
+root - INFO - Iteración 3: misma_semana_ultimo_año = 21, misma_semana_ultimo_año_por = 13.04
+root - INFO - Iteración 4: misma_semana_10años = 22, misma_semana_10años_por = 14.16
+root - INFO - Iteración 0: agua_embalsada = 5, agua_embalsada_por = 22.73
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 22
+root - INFO - Iteración 3: misma_semana_ultimo_año = 8, misma_semana_ultimo_año_por = 36.36
+root - INFO - Iteración 4: misma_semana_10años = 11, misma_semana_10años_por = 50.45
+root - INFO - Iteración 0: agua_embalsada = 62, agua_embalsada_por = 22.22
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 279
+root - INFO - Iteración 3: misma_semana_ultimo_año = 118, misma_semana_ultimo_año_por = 42.29
+root - INFO - Iteración 4: misma_semana_10años = 194, misma_semana_10años_por = 69.53
+root - INFO - Iteración 0: agua_embalsada = 43, agua_embalsada_por = 48.86
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 88
+root - INFO - Iteración 3: misma_semana_ultimo_año = 48, misma_semana_ultimo_año_por = 54.55
+root - INFO - Iteración 4: misma_semana_10años = 61, misma_semana_10años_por = 69.43
+root - INFO - Iteración 0: agua_embalsada = 43, agua_embalsada_por = 69.35
+root - INFO - Iteración 1: variacion_ultima_semana = 1, variacion_ultima_semana_por = 1.61
+root - INFO - Iteración 2: capacidad_total = 62
+root - INFO - Iteración 3: misma_semana_ultimo_año = 44, misma_semana_ultimo_año_por = 70.97
+root - INFO - Iteración 4: misma_semana_10años = 52, misma_semana_10años_por = 85.32
+root - INFO - Iteración 0: agua_embalsada = 31, agua_embalsada_por = 18.79
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 165
+root - INFO - Iteración 3: misma_semana_ultimo_año = 16, misma_semana_ultimo_año_por = 9.70
+root - INFO - Iteración 4: misma_semana_10años = 70, misma_semana_10años_por = 42.61
+root - INFO - Iteración 0: agua_embalsada = 67, agua_embalsada_por = 60.36
+root - INFO - Iteración 1: variacion_ultima_semana = 3, variacion_ultima_semana_por = 2.70
+root - INFO - Iteración 2: capacidad_total = 111
+root - INFO - Iteración 3: misma_semana_ultimo_año = 64, misma_semana_ultimo_año_por = 57.66
+root - INFO - Iteración 4: misma_semana_10años = 84, misma_semana_10años_por = 75.86
+root - INFO - Iteración 0: agua_embalsada = 7, agua_embalsada_por = 31.82
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 22
+root - INFO - Iteración 3: misma_semana_ultimo_año = 3, misma_semana_ultimo_año_por = 13.64
+root - INFO - Iteración 4: misma_semana_10años = 6, misma_semana_10años_por = 30.00
+root - INFO - Iteración 0: agua_embalsada = 6, agua_embalsada_por = 60.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 10
+root - INFO - Iteración 3: misma_semana_ultimo_año = 7, misma_semana_ultimo_año_por = 70.00
+root - INFO - Iteración 4: misma_semana_10años = 7, misma_semana_10años_por = 75.00
+root - INFO - Iteración 0: agua_embalsada = 14, agua_embalsada_por = 38.89
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 36
+root - INFO - Iteración 3: misma_semana_ultimo_año = 18, misma_semana_ultimo_año_por = 50.00
+root - INFO - Iteración 4: misma_semana_10años = 18, misma_semana_10años_por = 51.94
+root - INFO - Iteración 0: agua_embalsada = 3, agua_embalsada_por = 23.08
+root - INFO - Iteración 1: variacion_ultima_semana = -1, variacion_ultima_semana_por = -7.69
+root - INFO - Iteración 2: capacidad_total = 13
+root - INFO - Iteración 3: misma_semana_ultimo_año = 3, misma_semana_ultimo_año_por = 23.08
+root - INFO - Iteración 4: misma_semana_10años = 4, misma_semana_10años_por = 33.08
+root - INFO - Iteración 0: agua_embalsada = 74, agua_embalsada_por = 16.93
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 437
+root - INFO - Iteración 3: misma_semana_ultimo_año = 162, misma_semana_ultimo_año_por = 37.07
+root - INFO - Iteración 4: misma_semana_10años = 221, misma_semana_10años_por = 50.57
+root - INFO - Iteración 0: agua_embalsada = 19, agua_embalsada_por = 54.29
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 35
+root - INFO - Iteración 3: misma_semana_ultimo_año = 18, misma_semana_ultimo_año_por = 51.43
+root - INFO - Iteración 4: misma_semana_10años = 17, misma_semana_10años_por = 50.86
+root - INFO - Iteración 0: agua_embalsada = 65, agua_embalsada_por = 30.95
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 210
+root - INFO - Iteración 3: misma_semana_ultimo_año = 68, misma_semana_ultimo_año_por = 32.38
+root - INFO - Iteración 4: misma_semana_10años = 86, misma_semana_10años_por = 41.33
+root - INFO - Iteración 0: agua_embalsada = 4, agua_embalsada_por = 57.14
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 7
+root - INFO - Iteración 3: misma_semana_ultimo_año = 5, misma_semana_ultimo_año_por = 71.43
+root - INFO - Iteración 4: misma_semana_10años = 4, misma_semana_10años_por = 61.43
+root - INFO - Iteración 0: agua_embalsada = 52, agua_embalsada_por = 21.14
+root - INFO - Iteración 1: variacion_ultima_semana = 2, variacion_ultima_semana_por = 0.81
+root - INFO - Iteración 2: capacidad_total = 246
+root - INFO - Iteración 3: misma_semana_ultimo_año = 66, misma_semana_ultimo_año_por = 26.83
+root - INFO - Iteración 4: misma_semana_10años = 102, misma_semana_10años_por = 41.75
+root - INFO - Iteración 0: agua_embalsada = 12, agua_embalsada_por = 46.15
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 26
+root - INFO - Iteración 3: misma_semana_ultimo_año = 13, misma_semana_ultimo_año_por = 50.00
+root - INFO - Iteración 4: misma_semana_10años = 9, misma_semana_10años_por = 36.92
+root - INFO - Iteración 0: agua_embalsada = 3, agua_embalsada_por = 11.54
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 26
+root - INFO - Iteración 3: misma_semana_ultimo_año = 3, misma_semana_ultimo_año_por = 11.54
+root - INFO - Iteración 4: misma_semana_10años = 3, misma_semana_10años_por = 11.92
+root - INFO - Iteración 0: agua_embalsada = 7, agua_embalsada_por = 11.48
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 61
+root - INFO - Iteración 3: misma_semana_ultimo_año = 18, misma_semana_ultimo_año_por = 29.51
+root - INFO - Iteración 4: misma_semana_10años = 45, misma_semana_10años_por = 74.92
+root - INFO - Iteración 0: agua_embalsada = 28, agua_embalsada_por = 25.69
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 109
+root - INFO - Iteración 3: misma_semana_ultimo_año = 28, misma_semana_ultimo_año_por = 25.69
+root - INFO - Iteración 4: misma_semana_10años = 89, misma_semana_10años_por = 81.93
+root - INFO - Iteración 0: agua_embalsada = 16, agua_embalsada_por = 20.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 80
+root - INFO - Iteración 3: misma_semana_ultimo_año = 19, misma_semana_ultimo_año_por = 23.75
+root - INFO - Iteración 4: misma_semana_10años = 61, misma_semana_10años_por = 77.00
+root - INFO - Iteración 0: agua_embalsada = 0, agua_embalsada_por = 0.00
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 5
+root - INFO - Iteración 3: misma_semana_ultimo_año = 0, misma_semana_ultimo_año_por = 0.00
+root - INFO - Iteración 4: misma_semana_10años = 2, misma_semana_10años_por = 56.00
+root - INFO - Iteración 0: agua_embalsada = 8, agua_embalsada_por = 33.33
+root - INFO - Iteración 1: variacion_ultima_semana = 0, variacion_ultima_semana_por = 0.00
+root - INFO - Iteración 2: capacidad_total = 24
+root - INFO - Iteración 3: misma_semana_ultimo_año = 7, misma_semana_ultimo_año_por = 29.17
+root - INFO - Iteración 4: misma_semana_10años = 20, misma_semana_10años_por = 85.42
+root - INFO - Iteración 0: agua_embalsada = 4, agua_embalsada_por = 2.42
+root - INFO - Iteración 1: variacion_ultima_semana = -4, variacion_ultima_semana_por = -2.42
+root - INFO - Iteración 2: capacidad_total = 165
+root - INFO - Iteración 3: misma_semana_ultimo_año = 12, misma_semana_ultimo_año_por = 7.27
+root - INFO - Iteración 4: misma_semana_10años = 114, misma_semana_10años_por = 69.09
+root - INFO - Iteración 0: agua_embalsada = 60, agua_embalsada_por = 25.75
+root - INFO - Iteración 1: variacion_ultima_semana = 4, variacion_ultima_semana_por = 1.72
+root - INFO - Iteración 2: capacidad_total = 233
+root - INFO - Iteración 3: misma_semana_ultimo_año = 88, misma_semana_ultimo_año_por = 37.77
+root - INFO - Iteración 4: misma_semana_10años = 185, misma_semana_10años_por = 79.53
