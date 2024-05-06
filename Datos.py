@@ -69,13 +69,9 @@ for row in rows:
 
         # Crear un diccionario para almacenar los datos de cada FilaSeccion
         datos = {}
-
-        # Aquí estaba el error. Deberías buscar los divs "FilaSeccion" en el segundo div
         fila_seccion_divs = second_div.find_all('div', {'class': 'FilaSeccion'})
 
         import logging
-
-        # Configurar el logging
         logging.basicConfig(filename='app.log', filemode='w', format='%(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
         for i, fila_seccion_div in enumerate(fila_seccion_divs):
@@ -91,7 +87,7 @@ for row in rows:
               fila_datos.append(resultado)
 
             if i == 0:
-              agua_embalsada = fila_datos[0]
+              agua_embalsada = fila_datos[0].replace('.', '')
               agua_embalsada_por = fila_datos[1] if len(fila_datos) > 1 else None
               logging.info(f"Iteración {i}: agua_embalsada = {agua_embalsada}, agua_embalsada_por = {agua_embalsada_por}")
             elif i == 1:
@@ -99,7 +95,7 @@ for row in rows:
               variacion_ultima_semana_por = fila_datos[1] if len(fila_datos) > 1 else None
               logging.info(f"Iteración {i}: variacion_ultima_semana = {variacion_ultima_semana}, variacion_ultima_semana_por = {variacion_ultima_semana_por}")
             elif i == 2:
-              capacidad_total = fila_datos[0]
+              capacidad_total = fila_datos[0].replace('.', '')
               logging.info(f"Iteración {i}: capacidad_total = {capacidad_total}")
             elif i == 3:
               misma_semana_ultimo_año = fila_datos[0]

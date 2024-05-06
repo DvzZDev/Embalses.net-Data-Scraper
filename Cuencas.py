@@ -1,6 +1,7 @@
 import mysql.connector
 import requests
 from bs4 import BeautifulSoup
+import datetime;
 
 # Conexión a la base de datos
 conn = mysql.connector.connect(
@@ -37,28 +38,27 @@ for row in rows:
     porcentaje_embalsada = float(columns[3].text.strip().replace('(', '').replace(')', '').replace('%', ''))
     variacion = columns[4].text.strip()
     porcentaje_variacion = float(columns[5].text.strip().replace('(', '').replace(')', '').replace('%', ''))
-
+    fecha_modificacion = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     # Verifica si la fila existe
-    cursor.execute("SELECT * FROM CUENCA WHERE cuenca = %s", (cuenca,))
-    row = cursor.fetchone()
-
-    if row is None:
-        # Si la fila no existe, inserta una nueva
+    try:
         cursor.execute(
-            "INSERT INTO CUENCA (cuenca, capacidad, embalsada, porcentaje_embalsada, variacion, porcentaje_variacion) VALUES (%s, %s, %s, %s, %s, %s)",
-            (cuenca, capacidad, embalsada, porcentaje_embalsada, variacion, porcentaje_variacion),
+            """
+            INSERT INTO CUENCA (fecha_modificacion, cuenca, capacidad, embalsada, porcentaje_embalsada, variacion, porcentaje_variacion) 
+            VALUES (%s, %s, %s, %s, %s, %s, %s)
+            ON DUPLICATE KEY UPDATE 
+            fecha_modificacion = VALUES(fecha_modificacion),
+            capacidad = VALUES(capacidad),
+            embalsada = VALUES(embalsada),
+            porcentaje_embalsada = VALUES(porcentaje_embalsada),
+            variacion = VALUES(variacion),
+            porcentaje_variacion = VALUES(porcentaje_variacion)
+            """,
+            (fecha_modificacion, cuenca, capacidad, embalsada, porcentaje_embalsada, variacion, porcentaje_variacion),
         )
-        print(f"Datos insertados para la cuenca {cuenca}")
-    else:
-        # Si la fila existe, actualízala
-        cursor.execute(
-            "UPDATE CUENCA SET capacidad = %s, embalsada = %s, porcentaje_embalsada = %s, variacion = %s, porcentaje_variacion = %s WHERE cuenca = %s",
-            (capacidad, embalsada, porcentaje_embalsada, variacion, porcentaje_variacion, cuenca),
-        )
-        print(f"Datos actualizados para la cuenca {cuenca}")
-
-        
-
+        cursor.fetchall()  # Consume todos los resultados
+        print(f"Datos insertados o actualizados para la cuenca {cuenca}")
+    except Exception as e:
+        print(f"Error executing SQL query: {e}")
 # Hacemos commit de la transacción
 conn.commit()
 
