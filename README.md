@@ -1,24 +1,85 @@
+# SCRAPER EMBALSES.NET
 
-# Embalses.net Data Scraper
-![Preview de la base de datos actual](https://i.imgur.com/qqTsATM.png)
+## Descripción
+Tenemos un script de Node.js que scrapea datos de la página web "https://www.embalses.net.es". El script recoge información sobre los embalses y las cuencas en España y guarda los datos en un archivo JSON para su posterior uso.
 
-Este repositorio contiene scripts de Python diseñados para recopilar información sobre embalses desde el sitio web embalses.net. Los scripts están especialmente enfocados en extraer datos relacionados con las cuencas hidrográficas y añadirlos a una base de datos.
+## Dependencias
+Para ejecutar este script, necesitarás las siguientes dependencias:
+- `axios`: Para hacer solicitudes HTTP.
+- `cheerio`: Para analizar y seleccionar elementos HTML.
+- `fs`: Para escribir los datos en un archivo.
+- `progress`: Para visualizar el progreso del raspado.
 
-## Contenido
+Puedes instalar todas estas dependencias con npm usando el siguiente comando:
+```bash
+npm install axios cheerio fs progress
+```
+## Instalación
+Para usar este script, primero debes clonar el repositorio desde GitHub. Puedes hacerlo usando el siguiente comando en tu terminal:
+```bash
+git clone https://github.com/DvzZDev/Embalses.net-Data-Scraper.git
+```
 
-El repositorio incluye los siguientes elementos:
+## Uso
+Una vez tengamos clonado el repositorio solo queda ejecutarlo para poder generar el archivo JSON, el script tarda unos 4-5 minutos en finalizar, ya que tiene que procesar bastante información.
+```bash
+node scraper.js
+```
+Este JSON lo podríamos transformar, de vuelta en un objeto en JS para poder usarlo de la forma que queramos.
+```JavaScript
+//Importamos FileSystem
+const fs = require("fs");
 
-- **Cuencas.py**: Script que extrae todas las cuencas hidrográficas que tenemos en España.
-- **Embalses.py**: Maneja la información de embalses por cuenca hidrográfica para posteriormente extraer los datos de cada uno.
-- **Datos.py**: Gestiona la recopilación y procesamiento de datos relacionados por embalse.
-- **app.log**: Archivo de registro de la aplicación.
+// Lee el archivo JSON
+const data = JSON.parse(fs.readFileSync("./embalsesData.json", "utf8"));
 
-## Integración con Base de Datos
+// Busca el embalse por su nombre,(Necesitaremos dejar siempre un espacio en blanco al final de la busqueda)
+const embalseBuscado = data["San Juan "];
 
-Los datos recopilados por estos scripts se integran en una base de datos privada para su posterior análisis y uso. Sin embargo, ten en cuenta que puedes modificar los scripts para que se ajusten a tus necesidades y guardar los datos en tu propia base de datos personal.
+//Imprime el resultado
+console.log(embalseBuscado);
 
-## Estado del Proyecto
-
-Actualmente, este proyecto se encuentra en desarrollo activo. La aplicación web asociada está en proceso de desarrollo y se espera que se lance en el futuro cercano. El desarrollo futuro puede incluir características adicionales, mejoras de rendimiento y optimización del código.
-
-¡Siéntete libre de contribuir al proyecto! Se aceptan contribuciones en forma de informes de errores, solicitudes de características y mejoras de código.
+```
+## JSON
+Cuando el script termine se generara un JSON en la misma carpeta del proyecto. Solo tendremos que abrirlo y tendremos todos los datos hidrograficos sobre los embalses de españa. 
+```JSON
+"Alcantara ": {
+    "fecha_modificacion": "2024-05-23 23:02:38",
+    "cuenca": "Tajo",
+    "agua_embalsada": "3045",
+    "agua_embalsada_por": "96.36",
+    "variacion_ultima_semana": "-10",
+    "variacion_ultima_semana_por": "-0.32",
+    "capacidad_total": "3160",
+    "misma_semana_ultimo_year": "2.423",
+    "misma_semana_ultimo_year_por": "76.68",
+    "misma_semana_10years": "2.425",
+    "misma_semana_10years_por": "76.77"
+  },
+  "Alcorlo ": {
+    "fecha_modificacion": "2024-05-23 23:02:38",
+    "cuenca": "Tajo",
+    "agua_embalsada": "138",
+    "agua_embalsada_por": "76.67",
+    "variacion_ultima_semana": "0",
+    "variacion_ultima_semana_por": "0.00",
+    "capacidad_total": "180",
+    "misma_semana_ultimo_year": "67",
+    "misma_semana_ultimo_year_por": "37.22",
+    "misma_semana_10years": "99",
+    "misma_semana_10years_por": "55.22"
+  },
+  "Almoguera ": {
+    "fecha_modificacion": "2024-05-23 23:02:38",
+    "cuenca": "Tajo",
+    "agua_embalsada": "6",
+    "agua_embalsada_por": "85.71",
+    "variacion_ultima_semana": "0",
+    "variacion_ultima_semana_por": "0.00",
+    "capacidad_total": "7",
+    "misma_semana_ultimo_year": "6",
+    "misma_semana_ultimo_year_por": "85.71",
+    "misma_semana_10years": "5",
+    "misma_semana_10years_por": "84.29"
+  }, 
+```
