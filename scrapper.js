@@ -7,7 +7,7 @@ const ProgressBar = require('progress');
 // Establecemos la fecha de modificación
 const fecha_modificacion = new Date().toISOString().slice(0, 19).replace('T', ' ');
 
-// URL de la página web a raspar
+// URL de la página web a scrapear
 const url = "https://www.embalses.net/cuencas.php";
 
 // Objeto para almacenar los datos
@@ -16,7 +16,7 @@ const embalsesData = {};
 // Array para almacenar los mensajes
 const messages = [];
 
-// Función para raspar los datos
+// Función para scrapear los datos
 const scrapeData = async () => {
   try {
     // Hacemos una petición HTTP a la URL
@@ -151,5 +151,5 @@ const scrapeData = async () => {
   }
 };
 
-// Llamamos a la función para raspar los datos
+// Llamamos a la función para scrapear los datos
 scrapeData();
