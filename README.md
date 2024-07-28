@@ -23,8 +23,11 @@ Para ejecutar este script, necesitarás las siguientes dependencias:
 - **fs**: Para escribir los datos en un archivo.
 - **progress**: Para visualizar el progreso del scrapeo.
 
-#### Puedes instalar todas estas dependencias con npm usando el siguiente comando:
+#### Puedes instalar todas estas dependencias con npm usando los siguientes comandos:
 
+```sh
+npm install 
+```
 ```sh
 npm install axios cheerio fs progress
 ```
